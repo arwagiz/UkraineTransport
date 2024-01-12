@@ -64,6 +64,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
 
 - Ukraine Rapid Damage and Needs Assessment (RDNA2): February 2022 - February 2023: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099184503212328877/p1801740d1177f03c0ab180057556615497
+- Commission further integrates Ukraine into EU Single Market through the Connecting Europe Facility for infrastructure funding: https://ec.europa.eu/commission/presscorner/detail/en/ip_23_3061
 
 ### Data <a name="data"></a>
 
