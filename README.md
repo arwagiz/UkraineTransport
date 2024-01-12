@@ -21,6 +21,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### National Vision, Strategy, Masterplan <a name="national-vision-strategy-masterplan"></a> 
 
 - 2018: National Transport Strategy of Ukraine for the period up to 2030: https://zakon.rada.gov.ua/laws/show/430-2018-%D1%80#Text (English version: https://mtu.gov.ua/files/for_investors/230118/National%20Transport%20Strategy%20of%20Ukraine.pdf)
+- ОНОВЛЕНА ТРАНСПОРТНА СТРАТЕГІЯ УКРАЇНИ: НАПРЯМКИ ПОЛІТИКИ: https://mtu.gov.ua/files/strategy_ukr.pdf
 
 ### Other national and sectoral documents <a name="other-national-sectoral-documents"></a> 
 
@@ -61,7 +62,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
 
-- 
+- Ukraine Rapid Damage and Needs Assessment (RDNA2): February 2022 - February 2023: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099184503212328877/p1801740d1177f03c0ab180057556615497
 
 ### Data <a name="data"></a>
 
