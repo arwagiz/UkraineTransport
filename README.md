@@ -45,7 +45,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 - Lviv: Sustainable Urban Mobility Plan for Lviv: https://www.mobiliseyourcity.net/sites/default/files/2020-10/Sustainable%20Urban%20Mobility%20Plan%20of%20Lviv_digital-compressed.pdf
 - Zhytomyr: Sustainable Urban Mobility Plan for Zhytomyr, 2019: https://www.mobiliseyourcity.net/sites/default/files/2022-08/SUMP%20Zhytomyr.pdf
--  Khmelnytskyi: Green City Action Plan: https://ebrdgreencities.com/assets/Uploads/PDF/KhmelnytskyiGCAP_Eng_FINAL.pdf?vid=3
+- Khmelnytskyi: Green City Action Plan: https://ebrdgreencities.com/assets/Uploads/PDF/KhmelnytskyiGCAP_Eng_FINAL.pdf?vid=3
+- Poltava: Sustainable Urban Mobility Plan for Poltava, 2019: https://www.mobiliseyourcity.net/sites/default/files/2022-08/SUMP_Poltava_ENG.pdf
 
 ### Studies and research papers <a name="studies-research"></a> 
 
@@ -54,6 +55,9 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
   - From Streets for Cars to Streets for All: https://transformative-mobility.org/focus-area/tumi-e-mobility/lviv-ukraine/
   - Mobility Research 2021 (cold season): https://transformative-mobility.org/lviv-mobility-research-2021-cold-season/
   - Report on the results of the survey on public transport in Lviv 2022: https://transformative-mobility.org/multimedia/report-on-the-results-of-the-survey-on-public-transport-in-lviv-2022/
+ 
+  - Ukraine Transport Almanac 2022: https://transformative-mobility.org/multimedia/ukraine-transport-almanac-2022/
+  - Anchoring green recovery of urban mobility in Ukraine: Eight building blocks: https://transformative-mobility.org/anchoring-green-recovery-of-urban-mobility-in-ukraine-eight-building-blocks/
 
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
 
