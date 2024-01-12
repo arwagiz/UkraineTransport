@@ -31,7 +31,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 
 - Updated Nationally Determined Contribution of Ukraine to the Paris Agreement: https://unfccc.int/sites/default/files/NDC/2022-06/Ukraine%20NDC_July%2031.pdf 
-
+- UKRAINE 2050 LOW EMISSION DEVELOPMENT STRATEGY, 2017: https://unfccc.int/sites/default/files/resource/Ukraine_LEDS_en.pdf
 
 ### EU accession <a name="eu-accession"></a> 
 
