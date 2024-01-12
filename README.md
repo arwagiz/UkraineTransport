@@ -47,7 +47,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Studies and research papers <a name="studies-research"></a> 
 
-- 
+- Lviv:
+  - Public transport in Lviv. History and statistics 2022: https://transformative-mobility.org/multimedia/public-transport-in-lviv-history-and-statistics-2022/
 
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
 
