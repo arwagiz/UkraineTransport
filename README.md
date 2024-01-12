@@ -20,7 +20,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
   
 ### National Vision, Strategy, Masterplan <a name="national-vision-strategy-masterplan"></a> 
 
-- 2018: National Transport Strategy of Ukraine for the period up to 2030: https://zakon.rada.gov.ua/laws/show/430-2018-%D1%80#Text (English version:https://mtu.gov.ua/files/for_investors/230118/National%20Transport%20Strategy%20of%20Ukraine.pdf)
+- 2018: National Transport Strategy of Ukraine for the period up to 2030: https://zakon.rada.gov.ua/laws/show/430-2018-%D1%80#Text (English version: https://mtu.gov.ua/files/for_investors/230118/National%20Transport%20Strategy%20of%20Ukraine.pdf)
 
 ### Other national and sectoral documents <a name="other-national-sectoral-documents"></a> 
 
@@ -29,7 +29,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 
-- 
+- Updated Nationally Determined Contribution of Ukraine to the Paris Agreement: https://unfccc.int/sites/default/files/NDC/2022-06/Ukraine%20NDC_July%2031.pdf 
 
 
 ### EU accession <a name="eu-accession"></a> 
@@ -49,6 +49,9 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 - Lviv:
   - Public transport in Lviv. History and statistics 2022: https://transformative-mobility.org/multimedia/public-transport-in-lviv-history-and-statistics-2022/
+  - From Streets for Cars to Streets for All: https://transformative-mobility.org/focus-area/tumi-e-mobility/lviv-ukraine/
+  - Mobility Research 2021 (cold season): https://transformative-mobility.org/lviv-mobility-research-2021-cold-season/
+  - Report on the results of the survey on public transport in Lviv 2022: https://transformative-mobility.org/multimedia/report-on-the-results-of-the-survey-on-public-transport-in-lviv-2022/
 
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
 
