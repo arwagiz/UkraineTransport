@@ -24,7 +24,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Other national and sectoral documents <a name="other-national-sectoral-documents"></a> 
 
--
+- Railways:
+    - Integration of the Ukrainian and Moldavian Railway System into the EU transport system, EIB, DG MOVE: https://transport.ec.europa.eu/system/files/2023-07/Integration_of_the_UAMD_railway_system_into_the_EU_transport_system.pdf
 
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 
@@ -33,7 +34,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### EU accession <a name="eu-accession"></a> 
 
-- 
+- Communication on EU Enlargement policy - Ukraine 2023 Report Accompanying the document Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions 2023 : https://neighbourhood-enlargement.ec.europa.eu/ukraine-report-2023_en
 
 ### Trade Facilitation <a name="trade-facilitation"></a> 
 
