@@ -45,6 +45,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### Local Transport Plans <a name="local-transport-plans"></a>  
 
 - Lviv: Sustainable Urban Mobility Plan for Lviv: https://www.mobiliseyourcity.net/sites/default/files/2020-10/Sustainable%20Urban%20Mobility%20Plan%20of%20Lviv_digital-compressed.pdf
+- Lviv Green City ActionPlan, EBRD, 2020: https://ebrdgreencities.com/assets/Uploads/PDF/Lviv-GCAP-Final-ENG-merged_May2020.pdf (Ukrainian: https://ebrdgreencities.com/assets/Uploads/PDF/Lviv-GCAP-Final-UKR-merged_May-2020.pdf)
 - Kyiv: Green City Action Plan: https://drive.google.com/file/d/1X8Sx0wIdpD0OiZZr_uVf4q2s1jVbXjmt/view // https://kyivcity.gov.ua/navkolyshnie_seredovyshche_mista/Green_City/dokumenti_ta_prezentatsi/
 - Zhytomyr: Sustainable Urban Mobility Plan for Zhytomyr, 2019: https://www.mobiliseyourcity.net/sites/default/files/2022-08/SUMP%20Zhytomyr.pdf
 - Khmelnytskyi: Green City Action Plan: https://ebrdgreencities.com/assets/Uploads/PDF/KhmelnytskyiGCAP_Eng_FINAL.pdf?vid=3 (Ukrainian: https://ebrdgreencities.com/assets/Uploads/PDF/Khlnytskyi-GCAP_Ukr_FINAL_Apr-2023.pdf?vid=3)
