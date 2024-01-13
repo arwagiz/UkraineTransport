@@ -47,7 +47,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Lviv: Sustainable Urban Mobility Plan for Lviv: https://www.mobiliseyourcity.net/sites/default/files/2020-10/Sustainable%20Urban%20Mobility%20Plan%20of%20Lviv_digital-compressed.pdf
 - Kyiv: Green City Action Plan: https://drive.google.com/file/d/1X8Sx0wIdpD0OiZZr_uVf4q2s1jVbXjmt/view // https://kyivcity.gov.ua/navkolyshnie_seredovyshche_mista/Green_City/dokumenti_ta_prezentatsi/
 - Zhytomyr: Sustainable Urban Mobility Plan for Zhytomyr, 2019: https://www.mobiliseyourcity.net/sites/default/files/2022-08/SUMP%20Zhytomyr.pdf
-- Khmelnytskyi: Green City Action Plan: https://ebrdgreencities.com/assets/Uploads/PDF/KhmelnytskyiGCAP_Eng_FINAL.pdf?vid=3
+- Khmelnytskyi: Green City Action Plan: https://ebrdgreencities.com/assets/Uploads/PDF/KhmelnytskyiGCAP_Eng_FINAL.pdf?vid=3 (Ukrainian: https://ebrdgreencities.com/assets/Uploads/PDF/Khlnytskyi-GCAP_Ukr_FINAL_Apr-2023.pdf?vid=3)
 - Poltava: Sustainable Urban Mobility Plan for Poltava, 2019: https://www.mobiliseyourcity.net/sites/default/files/2022-08/SUMP_Poltava_ENG.pdf
 
 ### Studies and research papers <a name="studies-research"></a> 
