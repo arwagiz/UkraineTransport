@@ -22,6 +22,9 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 - 2018: National Transport Strategy of Ukraine for the period up to 2030: https://zakon.rada.gov.ua/laws/show/430-2018-%D1%80#Text (English version: https://mtu.gov.ua/files/for_investors/230118/National%20Transport%20Strategy%20of%20Ukraine.pdf)
 - ОНОВЛЕНА ТРАНСПОРТНА СТРАТЕГІЯ УКРАЇНИ: НАПРЯМКИ ПОЛІТИКИ: https://mtu.gov.ua/files/strategy_ukr.pdf
+- Національна доповідь «Цілі Сталого Розвитку: Україна» (Міністерство економічного розвитку і торгівлі України, 2017) // National report "Sustainable Development Goals: Ukraine" (Ministry of Economic Development and Trade of Ukraine, 2017): https://me.gov.ua/Documents/Download?id=22e86f94-a9dd-421e-adcb-e38748a4b7cb
+
+
 
 ### Other national and sectoral documents <a name="other-national-sectoral-documents"></a> 
 
@@ -33,7 +36,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 
-- Updated Nationally Determined Contribution of Ukraine to the Paris Agreement: https://unfccc.int/sites/default/files/NDC/2022-06/Ukraine%20NDC_July%2031.pdf 
+- Updated Nationally Determined Contribution of Ukraine to the Paris Agreement: https://unfccc.int/sites/default/files/NDC/2022-06/Ukraine%20NDC_July%2031.pdf
+- Національно-визначений внесок України // Ukraine's nationally determined contribution: https://mepr.gov.ua/diyalnist/napryamky/zmina-klimatu/pom-yakshennya-zminy-klimatu/natsionalno-vyznachenyj-vnesok-ukrayiny/ 
 - UKRAINE 2050 LOW EMISSION DEVELOPMENT STRATEGY, 2017: https://unfccc.int/sites/default/files/resource/Ukraine_LEDS_en.pdf
 
 ### EU accession <a name="eu-accession"></a> 
@@ -46,7 +50,10 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - 
 
 ### Local Transport Plans <a name="local-transport-plans"></a>  
-
+- Місто Київ, Україна. Дослідження сталого розвитку міського транспорту (Integrated Transport Planning Ltd, 2015): https://kmr.gov.ua/sites/default/files/3795-doslidzhennya_stalogo_rozvytku_miskogo_transportu_svitovyy_bank_0.pdf 
+- СТРАТЕГІЯ РОЗВИТКУ МІСТА КИЄВА до 2025 року, с.57: https://dei.kyivcity.gov.ua/files/2017/7/28/Strategy2025new.pdf
+Джерело: опитування при розробці транспортної моделі Києва (2015)
+- Kyiv Urban Mobility Project https://documents.worldbank.org/en/publication/documents-reports/documentdetail/638411619182035205/project-information-document-kyiv-urban-mobility-project-p170290 
 - Lviv: Sustainable Urban Mobility Plan for Lviv: https://www.mobiliseyourcity.net/sites/default/files/2020-10/Sustainable%20Urban%20Mobility%20Plan%20of%20Lviv_digital-compressed.pdf
 - Lviv Green City ActionPlan, EBRD, 2020: https://ebrdgreencities.com/assets/Uploads/PDF/Lviv-GCAP-Final-ENG-merged_May2020.pdf (Ukrainian: https://ebrdgreencities.com/assets/Uploads/PDF/Lviv-GCAP-Final-UKR-merged_May-2020.pdf)
 - Kyiv: Green City Action Plan: https://drive.google.com/file/d/1X8Sx0wIdpD0OiZZr_uVf4q2s1jVbXjmt/view // https://kyivcity.gov.ua/navkolyshnie_seredovyshche_mista/Green_City/dokumenti_ta_prezentatsi/
