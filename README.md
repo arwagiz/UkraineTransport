@@ -11,7 +11,9 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - [Other national and sectoral documents](#other-national-sectoral-documents) 
 - [Climate and energy policies](#climate-energy-policies) 
 - [EU accession](#eu-accession)
-- [Trade Facilitation](#trade-facilitation)  
+- [Trade Facilitation](#trade-facilitation)
+- [Digitalisation](#digitalisation)
+- [Gender and Equality](#gender)
 - [Local Transport Plans](#local-transport-plans) 
 - [Studies and research papers](#studies-research) 
 - [International cooperation projects and strategies](#International-cooperation) 
@@ -46,8 +48,15 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Trade Facilitation <a name="trade-facilitation"></a> 
 
-
 - 
+
+### Digitalisation <a name="digitalisation"></a>
+
+-
+
+### Gender and Equality <a name="gender"></a>
+
+-
 
 ### Local Transport Plans <a name="local-transport-plans"></a>  
 
@@ -94,8 +103,7 @@ https://2021.vmr.gov.ua/ContentLibrary/C%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D1%
   - From Streets for Cars to Streets for All: https://transformative-mobility.org/focus-area/tumi-e-mobility/lviv-ukraine/
   - Mobility Research 2021 (cold season): https://transformative-mobility.org/lviv-mobility-research-2021-cold-season/
   - Report on the results of the survey on public transport in Lviv 2022: https://transformative-mobility.org/multimedia/report-on-the-results-of-the-survey-on-public-transport-in-lviv-2022/
- 
-  - The Urban Transport Sector in Ukraine in 2022: A baseline report in the context of the War of 2022 and prospects for a green post-war recovery https://www.slideshare.net/viktoza/the-urban-transport-sector-in-ukraine-in-2022-a-baseline-report-in-the-context-of-the-war-of-2022-and-prospects-for-a-green-postwar-recovery
+   - The Urban Transport Sector in Ukraine in 2022: A baseline report in the context of the War of 2022 and prospects for a green post-war recovery https://www.slideshare.net/viktoza/the-urban-transport-sector-in-ukraine-in-2022-a-baseline-report-in-the-context-of-the-war-of-2022-and-prospects-for-a-green-postwar-recovery
   - Ukraine Transport Almanac 2022: https://transformative-mobility.org/multimedia/ukraine-transport-almanac-2022/
   - Anchoring green recovery of urban mobility in Ukraine: Eight building blocks: https://transformative-mobility.org/anchoring-green-recovery-of-urban-mobility-in-ukraine-eight-building-blocks/
 
