@@ -55,11 +55,15 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
   - Місто Київ, Україна. Дослідження сталого розвитку міського транспорту (Integrated Transport Planning Ltd, 2015): https://kmr.gov.ua/sites/default/files/3795-doslidzhennya_stalogo_rozvytku_miskogo_transportu_svitovyy_bank_0.pdf 
   - СТРАТЕГІЯ РОЗВИТКУ МІСТА КИЄВА до 2025 року, с.57: https://dei.kyivcity.gov.ua/files/2017/7/28/Strategy2025new.pdf
   - Kyiv Urban Mobility Project https://documents.worldbank.org/en/publication/documents-reports/documentdetail/638411619182035205/project-information-document-kyiv-urban-mobility-project-p170290
-  - - Kyiv: Green City Action Plan: https://drive.google.com/file/d/1X8Sx0wIdpD0OiZZr_uVf4q2s1jVbXjmt/view // https://kyivcity.gov.ua/navkolyshnie_seredovyshche_mista/Green_City/dokumenti_ta_prezentatsi/
+  - Kyiv: Green City Action Plan: https://drive.google.com/file/d/1X8Sx0wIdpD0OiZZr_uVf4q2s1jVbXjmt/view // https://kyivcity.gov.ua/navkolyshnie_seredovyshche_mista/Green_City/dokumenti_ta_prezentatsi/
 
 - Lviv:
   - Lviv: Sustainable Urban Mobility Plan for Lviv: https://www.mobiliseyourcity.net/sites/default/files/2020-10/Sustainable%20Urban%20Mobility%20Plan%20of%20Lviv_digital-compressed.pdf
   - Lviv Green City ActionPlan, EBRD, 2020: https://ebrdgreencities.com/assets/Uploads/PDF/Lviv-GCAP-Final-ENG-merged_May2020.pdf (Ukrainian: https://ebrdgreencities.com/assets/Uploads/PDF/Lviv-GCAP-Final-UKR-merged_May-2020.pdf)
+  - Стратегія міського транспортного руху у м. Львові (PTV Planung Transport Verkehr AG, VCDB VerkehrsConsult, 2009)  https://drive.google.com/drive/folders/1MAqkzTU-vGlQ9aJEhR4ETdrxby59edqk?usp=drive_link 
+- LVIV PUBLIC TRANSPORT – URBAN TRANSPORT REGULATORY IMPROVEMENT (Louis Berger, EBRD, CIDA, 2011); 
+- Integrated concept of Lviv downtown development (GIZ, 2011): https://www.slideshare.net/lingvo/integrated-concept-of-lviv-downtown-development , http://www.urban-project.lviv.ua/php_uploads/data/articles/ArticleFiles_UA_182.pdf 
+- Sustainable urban mobility plan (GIZ, Basler & Hofmann AG, Van de Wetering Atelier für Städtebau GmbH, Burkhard Horn: Mobilität & Verkehr - Strategie & Planung, 2019) https://www8.city-adm.lviv.ua/Pool/Info/doclmr_1.NSF/(SearchForWeb)/944FD4B2757ED859C225875F002B36C2?OpenDocument
 
 - Zhytomyr:  
   - Zhytomyr: Sustainable Urban Mobility Plan for Zhytomyr, 2019: https://www.mobiliseyourcity.net/sites/default/files/2022-08/SUMP%20Zhytomyr.pdf
