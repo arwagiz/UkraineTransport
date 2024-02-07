@@ -73,6 +73,19 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 - Poltava: 
   - Poltava: Sustainable Urban Mobility Plan for Poltava, 2019: https://www.mobiliseyourcity.net/sites/default/files/2022-08/SUMP_Poltava_ENG.pdf
+ 
+- Odesa:
+  - Sustainable Mobility for Odessa. A road map for improving accessibility and energy efficiency (World Bank. 2018. Sustainable Mobility for Odessa. © World Bank.)  
+https://documents1.worldbank.org/curated/en/498021530861926262/pdf/Sustainable-Mobility-for-Odessa.pdf 
+
+- Mykolaiv
+  - План сталої міської мобільності міста Миколаїв (“А+С Україна”, 2019): https://mkrada.gov.ua/files/2019/8_2019/SUMP%20Mykolaiv.pdf; https://drive.google.com/drive/folders/1P-0_0PAwLJ_zON1X_PzRQtSAljjXsX28?usp=drive_link (all files are here)
+
+- Vinnytsia
+  - КОМПЛЕКСНА СТРАТЕГІЯ МІСЬКОГО ТРАНСПОРТУ І ПРОСТОРОВОГО РОЗВИТКУ (mrs partner ag, Van de Wetering Atelier für Städtebau GmbH, Ernst Basler + Partner AG, 2015)
+https://2021.vmr.gov.ua/ContentLibrary/C%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D1%96%D1%8F%20%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%D1%83.pdf  
+  - Концепція інтегрованого розвитку міста Вінниці 2030 (2019): https://2021.vmr.gov.ua/Lists/IntegratedUrbanDevelopment/Default.aspx 
+
 
 ### Studies and research papers <a name="studies-research"></a> 
 
