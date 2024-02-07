@@ -95,6 +95,14 @@ https://documents1.worldbank.org/curated/en/498021530861926262/pdf/Sustainable-M
 https://2021.vmr.gov.ua/ContentLibrary/C%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D1%96%D1%8F%20%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%D1%83.pdf  
   - Концепція інтегрованого розвитку міста Вінниці 2030 (2019): https://2021.vmr.gov.ua/Lists/IntegratedUrbanDevelopment/Default.aspx 
 
+- Chernihiv
+  - РОЗРОБКА ТА РЕАЛІЗАЦІЯ МОДЕЛІ ОПТИМІЗАЦІЇ МІСЬКИХ ПАСАЖИРСЬКИХ ПЕРЕВЕЗЕНЬ (НУ Чернігівська політехніка, 2021): https://drive.google.com/file/d/1jLiyrwzUSg67SsYZhnhWYLavJGQWRXjQ/view?usp=drive_link 
+
+- Ivano-Frankivsk
+  - Транспортна концепція міста Івано-Франківська (​​DREBERIS GmbH, PTV Transport Consult GmbH Dresden, GIZ, 2015): https://drive.google.com/file/d/1ekcW5qkgeaFtAWegfa9mIVOYaURT_5d3/view?usp=drive_link 
+
+- Sumy
+  - ФІНАНСОВЕ ПЛАНУВАННЯ ДЛЯ ПСММ М. СУМИ (Egis, 2020): https://drive.google.com/file/d/1__-CEzw9utZAzCVwbjjjaOshIDNevmdJ/view?usp=drive_link 
 
 ### Studies and research papers <a name="studies-research"></a> 
 
