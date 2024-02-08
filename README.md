@@ -114,16 +114,14 @@ https://2021.vmr.gov.ua/ContentLibrary/C%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D1%
    - The Urban Transport Sector in Ukraine in 2022: A baseline report in the context of the War of 2022 and prospects for a green post-war recovery https://www.slideshare.net/viktoza/the-urban-transport-sector-in-ukraine-in-2022-a-baseline-report-in-the-context-of-the-war-of-2022-and-prospects-for-a-green-postwar-recovery
   - Ukraine Transport Almanac 2022: https://transformative-mobility.org/multimedia/ukraine-transport-almanac-2022/
   - Anchoring green recovery of urban mobility in Ukraine: Eight building blocks: https://transformative-mobility.org/anchoring-green-recovery-of-urban-mobility-in-ukraine-eight-building-blocks/
- 
-  - Зміна тенденції в напрямку сталого фінансування транспорту в Україні (Матіас Мерфорт, 2013) https://drive.google.com/file/d/1Q_idiNzSuIxZoIiwT-OSBx9Aj4FzAU7R/view
-​​ТЕХНІЧНА ДОПОМОГА ІНІЦІАТИВІ УПРАВЛІННЯ ПАРКУВАННЯМ В КИЄВІ (USAID, SARECO, ITDP, Gide, 2015)
-https://www.usaid.gov/uk/document/technical-assistance-parking-management-initiative-kyiv https://www.usaid.gov/sites/default/files/2022-05/Kyiv%20Parking%20Assessment%20-%20Final%20Report%20%20UKR%20PL.pdf  
-УКРАЇНА Огляд урбанізації (© 2015 Міжнародний банк реконструкції та розвитку / Світовий банк) https://documents1.worldbank.org/curated/en/787061473856627628/pdf/ACS15060-REVISED-PUBLIC-UKRANIAN-ukr-web-text-cover.pdf  
-Вплив транспорту на екологію міста. Аналіз та стратегії для України (ГО Міські реформи, Олена Чернишова, Харків, 2016) https://ucn.org.ua/wp-content/uploads/2017/02/transport-ukr4_small.pdf 
-Стала мобільність. Аналіз законодавства та практик України (ЄС — Чернівецька міська рада, БАРР, Вадим Денисенко, Тетяна Усик, Денис Моляка, 2018)
-Потреба у розвитку велотранспорту та перешкоди до її реалізації у містах та регіонах України (Фонд ім. Гайнріха Бьолля, Бюро Київ — Україна, Ірина Бондаренко, 2020) https://ua.boell.org/uk/2020/12/15/potreba-u-rozvitku-velotransportu-ta-pereshkodi-do-ii-realizacii-u-mistakh-ta-regionakh 
-Рекомендації до транспортного законодавства України з урахуванням практик ЄС (Фонд ім. Гайнріха Бьолля, Бюро Київ, Україна та ГО «Центр екологічних ініціатив «Екодія», Галина Трипольська, Грудень 2020) https://ua.boell.org/uk/2021/02/11/rekomendacii-do-transportnogo-zakonodavstva-ukraini-z-urakhuvannyam-praktik-es 
-Біла книга мікромобільності https://www.undp.org/uk/ukraine/publications/%D0%B1%D1%96%D0%BB%D0%B0-%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0-%D0%BC%D1%96%D0%BA%D1%80%D0%BE%D0%BC%D0%BE%D0%B1%D1%96%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%96 (UNDP, 2021)
+- Зміна тенденції в напрямку сталого фінансування транспорту в Україні (Матіас Мерфорт, 2013): https://drive.google.com/file/d/1Q_idiNzSuIxZoIiwT-OSBx9Aj4FzAU7R/view
+- ​​ТЕХНІЧНА ДОПОМОГА ІНІЦІАТИВІ УПРАВЛІННЯ ПАРКУВАННЯМ В КИЄВІ (USAID, SARECO, ITDP, Gide, 2015): https://www.usaid.gov/uk/document/technical-assistance-parking-management-initiative-kyiv https://www.usaid.gov/sites/default/files/2022-05/Kyiv%20Parking%20Assessment%20-%20Final%20Report%20%20UKR%20PL.pdf  
+- УКРАЇНА Огляд урбанізації (© 2015 Міжнародний банк реконструкції та розвитку / Світовий банк):   https://documents1.worldbank.org/curated/en/787061473856627628/pdf/ACS15060-REVISED-PUBLIC-UKRANIAN-ukr-web-text-cover.pdf  
+- Вплив транспорту на екологію міста. Аналіз та стратегії для України (ГО Міські реформи, Олена Чернишова, Харків, 2016) https://ucn.org.ua/wp-content/uploads/2017/02/transport-ukr4_small.pdf 
+- Стала мобільність. Аналіз законодавства та практик України (ЄС — Чернівецька міська рада, БАРР, Вадим Денисенко, Тетяна Усик, Денис Моляка, 2018):
+- Потреба у розвитку велотранспорту та перешкоди до її реалізації у містах та регіонах України (Фонд ім. Гайнріха Бьолля, Бюро Київ — Україна, Ірина Бондаренко, 2020) https://ua.boell.org/uk/2020/12/15/potreba-u-rozvitku-velotransportu-ta-pereshkodi-do-ii-realizacii-u-mistakh-ta-regionakh 
+- Рекомендації до транспортного законодавства України з урахуванням практик ЄС (Фонд ім. Гайнріха Бьолля, Бюро Київ, Україна та ГО «Центр екологічних ініціатив «Екодія», Галина Трипольська, Грудень 2020): https://ua.boell.org/uk/2021/02/11/rekomendacii-do-transportnogo-zakonodavstva-ukraini-z-urakhuvannyam-praktik-es 
+- Біла книга мікромобільності https://www.undp.org/uk/ukraine/publications/%D0%B1%D1%96%D0%BB%D0%B0-%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0-%D0%BC%D1%96%D0%BA%D1%80%D0%BE%D0%BC%D0%BE%D0%B1%D1%96%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%96 (UNDP, 2021)
 Що таке Стратегія сталої і розумної мобільності ЄС та як її можна застосувати в Україні (ГО Екодія, Ірина Бондаренко, 2021) https://ecoaction.org.ua/razom-do-staloi-mobilnosti.html 
 Kyiv Urban Mobility Project (World Bank. 2020. © World Bank)
 https://documents1.worldbank.org/curated/en/397841585212976186/pdf/Project-Information-Document-Kyiv-Urban-Mobility-Project-P170290.pdf 
