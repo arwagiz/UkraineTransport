@@ -60,11 +60,23 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Local Transport Plans <a name="local-transport-plans"></a>  
 
+- Chernihiv
+  - РОЗРОБКА ТА РЕАЛІЗАЦІЯ МОДЕЛІ ОПТИМІЗАЦІЇ МІСЬКИХ ПАСАЖИРСЬКИХ ПЕРЕВЕЗЕНЬ (НУ Чернігівська політехніка, 2021): https://drive.google.com/file/d/1jLiyrwzUSg67SsYZhnhWYLavJGQWRXjQ/view?usp=drive_link
+ 
+- Ivano-Frankivsk
+  - Транспортна концепція міста Івано-Франківська (​​DREBERIS GmbH, PTV Transport Consult GmbH Dresden, GIZ, 2015): https://drive.google.com/file/d/1ekcW5qkgeaFtAWegfa9mIVOYaURT_5d3/view?usp=drive_link 
+
+- Khmelnytskyi:
+  - Khmelnytskyi: Green City Action Plan: https://ebrdgreencities.com/assets/Uploads/PDF/KhmelnytskyiGCAP_Eng_FINAL.pdf?vid=3 (Ukrainian: https://ebrdgreencities.com/assets/Uploads/PDF/Khlnytskyi-GCAP_Ukr_FINAL_Apr-2023.pdf?vid=3)
+    
 - Kyiv
   - Місто Київ, Україна. Дослідження сталого розвитку міського транспорту (Integrated Transport Planning Ltd, 2015): https://kmr.gov.ua/sites/default/files/3795-doslidzhennya_stalogo_rozvytku_miskogo_transportu_svitovyy_bank_0.pdf 
   - СТРАТЕГІЯ РОЗВИТКУ МІСТА КИЄВА до 2025 року, с.57: https://dei.kyivcity.gov.ua/files/2017/7/28/Strategy2025new.pdf
   - Kyiv Urban Mobility Project https://documents.worldbank.org/en/publication/documents-reports/documentdetail/638411619182035205/project-information-document-kyiv-urban-mobility-project-p170290
   - Kyiv: Green City Action Plan: https://drive.google.com/file/d/1X8Sx0wIdpD0OiZZr_uVf4q2s1jVbXjmt/view // https://kyivcity.gov.ua/navkolyshnie_seredovyshche_mista/Green_City/dokumenti_ta_prezentatsi/
+ 
+- Mykolaiv
+  - План сталої міської мобільності міста Миколаїв (“А+С Україна”, 2019): https://mkrada.gov.ua/files/2019/8_2019/SUMP%20Mykolaiv.pdf; https://drive.google.com/drive/folders/1P-0_0PAwLJ_zON1X_PzRQtSAljjXsX28?usp=drive_link (all files are here)
 
 - Lviv:
   - Lviv: Sustainable Urban Mobility Plan for Lviv: https://www.mobiliseyourcity.net/sites/default/files/2020-10/Sustainable%20Urban%20Mobility%20Plan%20of%20Lviv_digital-compressed.pdf
@@ -74,35 +86,23 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
   - LVIV PUBLIC TRANSPORT – URBAN TRANSPORT REGULATORY IMPROVEMENT (Louis Berger, EBRD, CIDA, 2011); 
   - Integrated concept of Lviv downtown development (GIZ, 2011): https://www.slideshare.net/lingvo/integrated-concept-of-lviv-downtown-development , http://www.urban-project.lviv.ua/php_uploads/data/articles/ArticleFiles_UA_182.pdf 
 
-- Zhytomyr:  
-  - Zhytomyr: Sustainable Urban Mobility Plan for Zhytomyr, 2019: https://www.mobiliseyourcity.net/sites/default/files/2022-08/SUMP%20Zhytomyr.pdf
-
-- Khmelnytskyi:
-  - Khmelnytskyi: Green City Action Plan: https://ebrdgreencities.com/assets/Uploads/PDF/KhmelnytskyiGCAP_Eng_FINAL.pdf?vid=3 (Ukrainian: https://ebrdgreencities.com/assets/Uploads/PDF/Khlnytskyi-GCAP_Ukr_FINAL_Apr-2023.pdf?vid=3)
-
-- Poltava: 
-  - Poltava: Sustainable Urban Mobility Plan for Poltava, 2019: https://www.mobiliseyourcity.net/sites/default/files/2022-08/SUMP_Poltava_ENG.pdf
- 
 - Odesa:
   - Sustainable Mobility for Odessa. A road map for improving accessibility and energy efficiency (World Bank. 2018. Sustainable Mobility for Odessa. © World Bank.)  
 https://documents1.worldbank.org/curated/en/498021530861926262/pdf/Sustainable-Mobility-for-Odessa.pdf 
 
-- Mykolaiv
-  - План сталої міської мобільності міста Миколаїв (“А+С Україна”, 2019): https://mkrada.gov.ua/files/2019/8_2019/SUMP%20Mykolaiv.pdf; https://drive.google.com/drive/folders/1P-0_0PAwLJ_zON1X_PzRQtSAljjXsX28?usp=drive_link (all files are here)
-
+- Poltava: 
+  - Poltava: Sustainable Urban Mobility Plan for Poltava, 2019: https://www.mobiliseyourcity.net/sites/default/files/2022-08/SUMP_Poltava_ENG.pdf
+ 
+- Sumy
+  - ФІНАНСОВЕ ПЛАНУВАННЯ ДЛЯ ПСММ М. СУМИ (Egis, 2020): https://drive.google.com/file/d/1__-CEzw9utZAzCVwbjjjaOshIDNevmdJ/view?usp=drive_link 
+ 
 - Vinnytsia
   - КОМПЛЕКСНА СТРАТЕГІЯ МІСЬКОГО ТРАНСПОРТУ І ПРОСТОРОВОГО РОЗВИТКУ (mrs partner ag, Van de Wetering Atelier für Städtebau GmbH, Ernst Basler + Partner AG, 2015)
 https://2021.vmr.gov.ua/ContentLibrary/C%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D1%96%D1%8F%20%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%D1%83.pdf  
   - Концепція інтегрованого розвитку міста Вінниці 2030 (2019): https://2021.vmr.gov.ua/Lists/IntegratedUrbanDevelopment/Default.aspx 
 
-- Chernihiv
-  - РОЗРОБКА ТА РЕАЛІЗАЦІЯ МОДЕЛІ ОПТИМІЗАЦІЇ МІСЬКИХ ПАСАЖИРСЬКИХ ПЕРЕВЕЗЕНЬ (НУ Чернігівська політехніка, 2021): https://drive.google.com/file/d/1jLiyrwzUSg67SsYZhnhWYLavJGQWRXjQ/view?usp=drive_link 
-
-- Ivano-Frankivsk
-  - Транспортна концепція міста Івано-Франківська (​​DREBERIS GmbH, PTV Transport Consult GmbH Dresden, GIZ, 2015): https://drive.google.com/file/d/1ekcW5qkgeaFtAWegfa9mIVOYaURT_5d3/view?usp=drive_link 
-
-- Sumy
-  - ФІНАНСОВЕ ПЛАНУВАННЯ ДЛЯ ПСММ М. СУМИ (Egis, 2020): https://drive.google.com/file/d/1__-CEzw9utZAzCVwbjjjaOshIDNevmdJ/view?usp=drive_link 
+- Zhytomyr:  
+  - Zhytomyr: Sustainable Urban Mobility Plan for Zhytomyr, 2019: https://www.mobiliseyourcity.net/sites/default/files/2022-08/SUMP%20Zhytomyr.pdf
 
 ### Studies and research papers <a name="studies-research"></a> 
 
