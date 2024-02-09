@@ -130,6 +130,11 @@ https://2021.vmr.gov.ua/ContentLibrary/C%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D1%
    - РЕАЛІЗАЦІЯ ЄВРОПЕЙСЬКОГО ЗЕЛЕНОГО КУРСУ В ТРАНСПОРТІ ТА ФОРМУВАННЯ СТАЛОЇ МОБІЛЬНОСТІ (BRDO, 2022) https://regulation.gov.ua/book/180-zelena-kniga-realizacia-evropejskogo-zelenogo-kursu-v-transporti-ta-formuvanna-staloi-mobilnosti
    - СТАЛА МОБІЛЬНІСТЬ У ГРОМАДАХ: рекомендації щодо відновлення (U-LEAD, Вадим Денисенко, 2022) https://u-lead.org.ua/storage/admin/files/b741f8157d9afdf578ba1872e7aed1c3.pdf
    - The Urban Transport Sector in Ukraine (Oresund LLC, 2022) https://drive.google.com/file/d/1anxrCgp4z1RyB_A6TpeE1rK99xt270j-/view
+   - «Проблеми транспорту та мобільності в об'єднаних територіальних громадах» (GIZ, U-LEAD, 2019):https://sutp.org/publications/u-lead-mobility-sociology-report/
+   - ЮРИДИЧНИЙ ЗВІТ "Про результати аналізу правового регулювання у сфері сталої міської мобільності в об'єднаних територіальних громадах України" (GIZ, U-LEAD, 2019): https://sutp.org/publications/u-lead-mobility-legal-report/
+   - АНАЛІТИЧНИЙ ЗВІТ "Про результати базового дослідження ситуації у сфері сталої місцевої мобільності в об'єднаних територіальних громадах України" (GIZ, U-LED, 2019): https://sutp.org/publications/baseline-report-on-sustainable-local-mobility-in-amalgamated-hromadas-of-ukraine/
+
+
   
  - Documents about mobility and transport translated to ukrainian:
 
