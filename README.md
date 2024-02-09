@@ -132,11 +132,11 @@ https://2021.vmr.gov.ua/ContentLibrary/C%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D1%
    - The Urban Transport Sector in Ukraine (Oresund LLC, 2022) https://drive.google.com/file/d/1anxrCgp4z1RyB_A6TpeE1rK99xt270j-/view
    - «Проблеми транспорту та мобільності в об'єднаних територіальних громадах» (GIZ, U-LEAD, 2019):https://sutp.org/publications/u-lead-mobility-sociology-report/
    - ЮРИДИЧНИЙ ЗВІТ "Про результати аналізу правового регулювання у сфері сталої міської мобільності в об'єднаних територіальних громадах України" (GIZ, U-LEAD, 2019): https://sutp.org/publications/u-lead-mobility-legal-report/
-   - АНАЛІТИЧНИЙ ЗВІТ "Про результати базового дослідження ситуації у сфері сталої місцевої мобільності в об'єднаних територіальних громадах України" (GIZ, U-LED, 2019): https://sutp.org/publications/baseline-report-on-sustainable-local-mobility-in-amalgamated-hromadas-of-ukraine/
-
+   - АНАЛІТИЧНИЙ ЗВІТ "Про результати базового дослідження ситуації у сфері сталої місцевої мобільності в об'єднаних територіальних громадах України" (GIZ, U-LEAD, 2019): https://sutp.org/publications/baseline-report-on-sustainable-local-mobility-in-amalgamated-hromadas-of-ukraine/
+   -  МОБІЛЬНІСТЬ ГРОМАД ІНФОРМАЦІЙНИЙ БЮЛЕТЕНЬ #1-#6: https://sutp.org/all-publications/?_sf_s=Bulletin&_sft_sutp_lang=uk
 
   
- - Documents about mobility and transport translated to ukrainian:
+ - Documents about mobility and transport translated to Ukrainian language:
 
     - Європейська міська мобільність. Передумови для розвитку політики: https://docs.google.com/document/d/1bdwwhgeUgD88JUg4iCTIc-BLXb59p6s2/edit?usp=drive_link&ouid=111416506735966448388&rtpof=true&sd=true 
     - ПІШОХІДНИЙ, ВЕЛОСИПЕДНИЙ РУХ І ТРАНСПОРТНІ ЗАТОРИ. 15 КОРОТКИХ ФАКТІВ ДЛЯ МІСТ (FLOW): https://drive.google.com/file/d/1ndfFJzzd6VBCTZoshZ3VPfPCQe6CdjkC/view?usp=drive_link 
@@ -147,7 +147,7 @@ https://2021.vmr.gov.ua/ContentLibrary/C%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D1%
     - Комплексний підхід до безпеки дорожнього руху: приклад Німеччини (GIZ, 2016): https://sutp.org/download/9502/?tmstv=1707472494
     - Інтеграція громадського транспорту та альянси перевізників (GIZ, 2018): https://sutp.org/download/9597/?tmstv=1707472617
     - 5 принципів сталої мобільності у вашій громаді (GIZ, 2019): https://sutp.org/publications/u-lead-poster/#
-    - 
+    - Управління попитом на транспортні послуги (GIZ, 2009): https://sutp.org/publications/baseline-report-on-sustainable-local-mobility-in-amalgamated-hromadas-of-ukraine/
 
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
 
