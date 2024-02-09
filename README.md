@@ -129,7 +129,19 @@ https://2021.vmr.gov.ua/ContentLibrary/C%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D1%
    - Kyiv Urban Mobility Project (World Bank. 2020. © World Bank): https://documents1.worldbank.org/curated/en/397841585212976186/pdf/Project-Information-Document-Kyiv-Urban-Mobility-Project-P170290.pdf
    - РЕАЛІЗАЦІЯ ЄВРОПЕЙСЬКОГО ЗЕЛЕНОГО КУРСУ В ТРАНСПОРТІ ТА ФОРМУВАННЯ СТАЛОЇ МОБІЛЬНОСТІ (BRDO, 2022) https://regulation.gov.ua/book/180-zelena-kniga-realizacia-evropejskogo-zelenogo-kursu-v-transporti-ta-formuvanna-staloi-mobilnosti
    - СТАЛА МОБІЛЬНІСТЬ У ГРОМАДАХ: рекомендації щодо відновлення (U-LEAD, Вадим Денисенко, 2022) https://u-lead.org.ua/storage/admin/files/b741f8157d9afdf578ba1872e7aed1c3.pdf
-   - The Urban Transport Sector in Ukraine (Oresund LLC, 2022) https://drive.google.com/file/d/1anxrCgp4z1RyB_A6TpeE1rK99xt270j-/view 
+   - The Urban Transport Sector in Ukraine (Oresund LLC, 2022) https://drive.google.com/file/d/1anxrCgp4z1RyB_A6TpeE1rK99xt270j-/view
+  
+ - Documents about mobility and transport translated to ukrainian:
+
+    - Європейська міська мобільність. Передумови для розвитку політики: https://docs.google.com/document/d/1bdwwhgeUgD88JUg4iCTIc-BLXb59p6s2/edit?usp=drive_link&ouid=111416506735966448388&rtpof=true&sd=true 
+
+    - ПІШОХІДНИЙ, ВЕЛОСИПЕДНИЙ РУХ І ТРАНСПОРТНІ ЗАТОРИ. 15 КОРОТКИХ ФАКТІВ ДЛЯ МІСТ (FLOW): https://drive.google.com/file/d/1ndfFJzzd6VBCTZoshZ3VPfPCQe6CdjkC/view?usp=drive_link 
+
+    - CREATE: Міська мобільність: готуємось до майбутнього з уроками минулого: https://drive.google.com/file/d/1OuCBcB8qrFXZcZ2Ud5zIDaiME8rOvgKN/view?usp=drive_link 
+
+    - СТАЛІ ТА БЕЗПЕЧНІ ДОРОГИ. Концепція та методологія для досягнення нульового рівня смертності в ДТП (WRI, 2018): https://drive.google.com/file/d/1XKJYR7PYRfEJrc4c8O5TzYicHE1VjPYJ/view 
+
+    - ПОСІБНИК ДОРОЖНІХ «ХВОРОБ» (CoST Ukraine, USAID, 2019): https://drive.google.com/file/d/1acJT2m481GxovxbmQtSU8rDhJ5dBLGma/vie
 
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
 
