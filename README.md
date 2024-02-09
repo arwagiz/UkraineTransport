@@ -22,7 +22,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
   
 ### National Vision, Strategy, Masterplan <a name="national-vision-strategy-masterplan"></a> 
 
-- 2018: National Transport Strategy of Ukraine for the period up to 2030: https://zakon.rada.gov.ua/laws/show/430-2018-%D1%80#Text (English version: https://mtu.gov.ua/files/for_investors/230118/National%20Transport%20Strategy%20of%20Ukraine.pdf)
+- <b> National Transport Strategy of Ukraine for the period up to 2030 </b> (Governemt of Ukraine, 2018): https://zakon.rada.gov.ua/laws/show/430-2018-%D1%80#Text (English version: https://mtu.gov.ua/files/for_investors/230118/National%20Transport%20Strategy%20of%20Ukraine.pdf)
 - ОНОВЛЕНА ТРАНСПОРТНА СТРАТЕГІЯ УКРАЇНИ: НАПРЯМКИ ПОЛІТИКИ: https://mtu.gov.ua/files/strategy_ukr.pdf
 - Національна доповідь «Цілі Сталого Розвитку: Україна» (Міністерство економічного розвитку і торгівлі України, 2017) // National report "Sustainable Development Goals: Ukraine" (Ministry of Economic Development and Trade of Ukraine, 2017): https://me.gov.ua/Documents/Download?id=22e86f94-a9dd-421e-adcb-e38748a4b7cb
 
