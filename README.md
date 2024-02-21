@@ -24,14 +24,14 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 - <b> National Transport Strategy of Ukraine for the period up to 2030 </b> (Cabinet of Ministers of Ukraine, 2018): https://zakon.rada.gov.ua/laws/show/430-2018-%D1%80#Text (English version: https://mtu.gov.ua/files/for_investors/230118/National%20Transport%20Strategy%20of%20Ukraine.pdf)
 - <b> ОНОВЛЕНА ТРАНСПОРТНА СТРАТЕГІЯ УКРАЇНИ: НАПРЯМКИ ПОЛІТИКИ </b> (Ministry of Infrastructure Ukraine,  : https://mtu.gov.ua/files/strategy_ukr.pdf
-- Національна доповідь «Цілі Сталого Розвитку: Україна» (Міністерство економічного розвитку і торгівлі України, 2017) // National report "Sustainable Development Goals: Ukraine" (Ministry of Economic Development and Trade of Ukraine, 2017): https://me.gov.ua/Documents/Download?id=22e86f94-a9dd-421e-adcb-e38748a4b7cb
+- Національна доповідь <b> «Цілі Сталого Розвитку: Україна» </b> (Міністерство економічного розвитку і торгівлі України, 2017) // National report "Sustainable Development Goals: Ukraine" (Ministry of Economic Development and Trade of Ukraine, 2017): https://me.gov.ua/Documents/Download?id=22e86f94-a9dd-421e-adcb-e38748a4b7cb
 
 
 
 ### Other national and sectoral documents <a name="other-national-sectoral-documents"></a> 
 
 - Railways:
-    - Integration of the Ukrainian and Moldavian Railway System into the EU transport system, EIB, DG MOVE: https://transport.ec.europa.eu/system/files/2023-07/Integration_of_the_UAMD_railway_system_into_the_EU_transport_system.pdf
+    - <b>Integration of the Ukrainian and Moldavian Railway System into the EU transport system </b>, EIB, DG MOVE: https://transport.ec.europa.eu/system/files/2023-07/Integration_of_the_UAMD_railway_system_into_the_EU_transport_system.pdf
  
 - <b> Recovery plans </b>
     -  Ukraine Recovery Plan 2022: https://www.urc-international.com/urc2022-recovery-plan
