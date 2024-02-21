@@ -61,26 +61,26 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### Local Transport Plans <a name="local-transport-plans"></a>  
 
 - Chernihiv
-  - <b> РОЗРОБКА ТА РЕАЛІЗАЦІЯ МОДЕЛІ ОПТИМІЗАЦІЇ МІСЬКИХ ПАСАЖИРСЬКИХ ПЕРЕВЕЗЕНЬ </b> (НУ Чернігівська політехніка, 2021): https://drive.google.com/file/d/1jLiyrwzUSg67SsYZhnhWYLavJGQWRXjQ/view?usp=drive_link
+  - <b> Розробка Та Реалізація Моделі Оптимізації Міських Пасажирських Перевезень </b> (НУ Чернігівська політехніка, 2021): https://drive.google.com/file/d/1jLiyrwzUSg67SsYZhnhWYLavJGQWRXjQ/view?usp=drive_link
  
 - Ivano-Frankivsk
-  - Транспортна концепція міста Івано-Франківська (​​DREBERIS GmbH, PTV Transport Consult GmbH Dresden, GIZ, 2015): https://drive.google.com/file/d/1ekcW5qkgeaFtAWegfa9mIVOYaURT_5d3/view?usp=drive_link 
+  - <b> Транспортна концепція міста Івано-Франківська </b> (​​DREBERIS GmbH, PTV Transport Consult GmbH Dresden, GIZ, 2015): https://drive.google.com/file/d/1ekcW5qkgeaFtAWegfa9mIVOYaURT_5d3/view?usp=drive_link 
 
 - Khmelnytskyi:
-  - Khmelnytskyi: Green City Action Plan: https://ebrdgreencities.com/assets/Uploads/PDF/KhmelnytskyiGCAP_Eng_FINAL.pdf?vid=3 (Ukrainian: https://ebrdgreencities.com/assets/Uploads/PDF/Khlnytskyi-GCAP_Ukr_FINAL_Apr-2023.pdf?vid=3)
+  - <b> Green City Action Plan </b>: https://ebrdgreencities.com/assets/Uploads/PDF/KhmelnytskyiGCAP_Eng_FINAL.pdf?vid=3 (Ukrainian: https://ebrdgreencities.com/assets/Uploads/PDF/Khlnytskyi-GCAP_Ukr_FINAL_Apr-2023.pdf?vid=3)
     
 - Kyiv
-  - Місто Київ, Україна. Дослідження сталого розвитку міського транспорту (Integrated Transport Planning Ltd, 2015): https://kmr.gov.ua/sites/default/files/3795-doslidzhennya_stalogo_rozvytku_miskogo_transportu_svitovyy_bank_0.pdf 
-  - СТРАТЕГІЯ РОЗВИТКУ МІСТА КИЄВА до 2025 року, с.57: https://dei.kyivcity.gov.ua/files/2017/7/28/Strategy2025new.pdf
-  - Kyiv Urban Mobility Project https://documents.worldbank.org/en/publication/documents-reports/documentdetail/638411619182035205/project-information-document-kyiv-urban-mobility-project-p170290
-  - Kyiv: Green City Action Plan: https://drive.google.com/file/d/1X8Sx0wIdpD0OiZZr_uVf4q2s1jVbXjmt/view // https://kyivcity.gov.ua/navkolyshnie_seredovyshche_mista/Green_City/dokumenti_ta_prezentatsi/
+  - <b> Дослідження сталого розвитку міського транспорту </b> (Integrated Transport Planning Ltd, 2015): https://kmr.gov.ua/sites/default/files/3795-doslidzhennya_stalogo_rozvytku_miskogo_transportu_svitovyy_bank_0.pdf 
+  - <b> Стратегія Розвитку Міста Києва До 2025 Року </b>, с.57: https://dei.kyivcity.gov.ua/files/2017/7/28/Strategy2025new.pdf
+  - <b> Kyiv Urban Mobility Project </b> https://documents.worldbank.org/en/publication/documents-reports/documentdetail/638411619182035205/project-information-document-kyiv-urban-mobility-project-p170290
+  - <b> Green City Action Plan </b>: https://drive.google.com/file/d/1X8Sx0wIdpD0OiZZr_uVf4q2s1jVbXjmt/view // https://kyivcity.gov.ua/navkolyshnie_seredovyshche_mista/Green_City/dokumenti_ta_prezentatsi/
  
 - Mykolaiv
-  - План сталої міської мобільності міста Миколаїв (“А+С Україна”, 2019): https://mkrada.gov.ua/files/2019/8_2019/SUMP%20Mykolaiv.pdf; https://drive.google.com/drive/folders/1P-0_0PAwLJ_zON1X_PzRQtSAljjXsX28?usp=drive_link (all files are here)
+  - <b> План сталої міської мобільності міста Миколаїв </b> (“А+С Україна”, 2019): https://mkrada.gov.ua/files/2019/8_2019/SUMP%20Mykolaiv.pdf; https://drive.google.com/drive/folders/1P-0_0PAwLJ_zON1X_PzRQtSAljjXsX28?usp=drive_link (all files are here)
 
 - Lviv:
-  - Lviv: Sustainable Urban Mobility Plan for Lviv: https://www.mobiliseyourcity.net/sites/default/files/2020-10/Sustainable%20Urban%20Mobility%20Plan%20of%20Lviv_digital-compressed.pdf
-  - Sustainable urban mobility plan (GIZ, Basler & Hofmann AG, Van de Wetering Atelier für Städtebau GmbH, Burkhard Horn: Mobilität & Verkehr - Strategie & Planung, 2019) https://www8.city-adm.lviv.ua/Pool/Info/doclmr_1.NSF/(SearchForWeb)/944FD4B2757ED859C225875F002B36C2?OpenDocument
+  - <b> Sustainable Urban Mobility Plan for Lviv </b> https://www.mobiliseyourcity.net/sites/default/files/2020-10/Sustainable%20Urban%20Mobility%20Plan%20of%20Lviv_digital-compressed.pdf
+  - <b> Sustainable urban mobility plan </b> (GIZ, Basler & Hofmann AG, Van de Wetering Atelier für Städtebau GmbH, Burkhard Horn: Mobilität & Verkehr - Strategie & Planung, 2019) https://www8.city-adm.lviv.ua/Pool/Info/doclmr_1.NSF/(SearchForWeb)/944FD4B2757ED859C225875F002B36C2?OpenDocument
   - Lviv Green City ActionPlan, EBRD, 2020: https://ebrdgreencities.com/assets/Uploads/PDF/Lviv-GCAP-Final-ENG-merged_May2020.pdf (Ukrainian: https://ebrdgreencities.com/assets/Uploads/PDF/Lviv-GCAP-Final-UKR-merged_May-2020.pdf)
   - Стратегія міського транспортного руху у м. Львові (PTV Planung Transport Verkehr AG, VCDB VerkehrsConsult, 2009)  https://drive.google.com/drive/folders/1MAqkzTU-vGlQ9aJEhR4ETdrxby59edqk?usp=drive_link 
   - LVIV PUBLIC TRANSPORT – URBAN TRANSPORT REGULATORY IMPROVEMENT (Louis Berger, EBRD, CIDA, 2011); 
