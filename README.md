@@ -38,13 +38,13 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 
-- Updated Nationally Determined Contribution of Ukraine to the Paris Agreement: https://unfccc.int/sites/default/files/NDC/2022-06/Ukraine%20NDC_July%2031.pdf
-- Національно-визначений внесок України // Ukraine's nationally determined contribution: https://mepr.gov.ua/diyalnist/napryamky/zmina-klimatu/pom-yakshennya-zminy-klimatu/natsionalno-vyznachenyj-vnesok-ukrayiny/ 
-- UKRAINE 2050 LOW EMISSION DEVELOPMENT STRATEGY, 2017: https://unfccc.int/sites/default/files/resource/Ukraine_LEDS_en.pdf
+- Updated <b> Nationally Determined Contribution of Ukraine </b> to the Paris Agreement: https://unfccc.int/sites/default/files/NDC/2022-06/Ukraine%20NDC_July%2031.pdf
+- Національно-визначений внесок України // <b> Ukraine's nationally determined contribution </b>: https://mepr.gov.ua/diyalnist/napryamky/zmina-klimatu/pom-yakshennya-zminy-klimatu/natsionalno-vyznachenyj-vnesok-ukrayiny/ 
+- <b> Ukraine 2050 Low Emission Development Strategy </b>, 2017: https://unfccc.int/sites/default/files/resource/Ukraine_LEDS_en.pdf
 
 ### EU accession <a name="eu-accession"></a> 
 
-- Communication on EU Enlargement policy - Ukraine 2023 Report Accompanying the document Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions 2023 : https://neighbourhood-enlargement.ec.europa.eu/ukraine-report-2023_en
+- Communication on EU Enlargement policy - <b> Ukraine 2023 Report Accompanying the document Communication </b> from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions 2023 : https://neighbourhood-enlargement.ec.europa.eu/ukraine-report-2023_en
 
 ### Trade Facilitation <a name="trade-facilitation"></a> 
 
@@ -61,7 +61,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### Local Transport Plans <a name="local-transport-plans"></a>  
 
 - Chernihiv
-  - РОЗРОБКА ТА РЕАЛІЗАЦІЯ МОДЕЛІ ОПТИМІЗАЦІЇ МІСЬКИХ ПАСАЖИРСЬКИХ ПЕРЕВЕЗЕНЬ (НУ Чернігівська політехніка, 2021): https://drive.google.com/file/d/1jLiyrwzUSg67SsYZhnhWYLavJGQWRXjQ/view?usp=drive_link
+  - <b> РОЗРОБКА ТА РЕАЛІЗАЦІЯ МОДЕЛІ ОПТИМІЗАЦІЇ МІСЬКИХ ПАСАЖИРСЬКИХ ПЕРЕВЕЗЕНЬ </b> (НУ Чернігівська політехніка, 2021): https://drive.google.com/file/d/1jLiyrwzUSg67SsYZhnhWYLavJGQWRXjQ/view?usp=drive_link
  
 - Ivano-Frankivsk
   - Транспортна концепція міста Івано-Франківська (​​DREBERIS GmbH, PTV Transport Consult GmbH Dresden, GIZ, 2015): https://drive.google.com/file/d/1ekcW5qkgeaFtAWegfa9mIVOYaURT_5d3/view?usp=drive_link 
