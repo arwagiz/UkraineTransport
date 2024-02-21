@@ -125,16 +125,16 @@ https://2021.vmr.gov.ua/ContentLibrary/C%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D1%
    - <b> Стала мобільність. Аналіз законодавства та практик України </b>  (ЄС — Чернівецька міська рада, БАРР, Вадим Денисенко, Тетяна Усик, Денис Моляка, 2018):
    - <b> Потреба у розвитку велотранспорту та перешкоди до її реалізації у містах та регіонах України </b>  (Фонд ім. Гайнріха Бьолля, Бюро Київ — Україна, Ірина Бондаренко, 2020) https://ua.boell.org/uk/2020/12/15/potreba-u-rozvitku-velotransportu-ta-pereshkodi-do-ii-realizacii-u-mistakh-ta-regionakh
    - <b> Рекомендації до транспортного законодавства України з урахуванням практик ЄС </b>  (Фонд ім. Гайнріха Бьолля, Бюро Київ, Україна та ГО «Центр екологічних ініціатив «Екодія», Галина Трипольська, Грудень 2020): https://ua.boell.org/uk/2021/02/11/rekomendacii-do-transportnogo-zakonodavstva-ukraini-z-urakhuvannyam-praktik-es
-   - <b>  Біла книга мікромобільності </b>  https://www.undp.org/uk/ukraine/publications/%D0%B1%D1%96%D0%BB%D0%B0-%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0-%D0%BC%D1%96%D0%BA%D1%80%D0%BE%D0%BC%D0%BE%D0%B1%D1%96%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%96 (UNDP, 2021)
+   - <b>  Біла книга мікромобільності </b> (UNDP, 2021) https://www.undp.org/uk/ukraine/publications/%D0%B1%D1%96%D0%BB%D0%B0-%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0-%D0%BC%D1%96%D0%BA%D1%80%D0%BE%D0%BC%D0%BE%D0%B1%D1%96%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%96 
    - <b> Що таке Стратегія сталої і розумної мобільності ЄС та як її можна застосувати в Україні </b>  (ГО Екодія, Ірина Бондаренко, 2021) https://ecoaction.org.ua/razom-do-staloi-mobilnosti.html
    - <b> Kyiv Urban Mobility Project </b> (World Bank. 2020. © World Bank): https://documents1.worldbank.org/curated/en/397841585212976186/pdf/Project-Information-Document-Kyiv-Urban-Mobility-Project-P170290.pdf
-   - РЕАЛІЗАЦІЯ ЄВРОПЕЙСЬКОГО ЗЕЛЕНОГО КУРСУ В ТРАНСПОРТІ ТА ФОРМУВАННЯ СТАЛОЇ МОБІЛЬНОСТІ (BRDO, 2022) https://regulation.gov.ua/book/180-zelena-kniga-realizacia-evropejskogo-zelenogo-kursu-v-transporti-ta-formuvanna-staloi-mobilnosti
-   - СТАЛА МОБІЛЬНІСТЬ У ГРОМАДАХ: рекомендації щодо відновлення (U-LEAD, Вадим Денисенко, 2022) https://u-lead.org.ua/storage/admin/files/b741f8157d9afdf578ba1872e7aed1c3.pdf
-   - The Urban Transport Sector in Ukraine (Oresund LLC, 2022) https://drive.google.com/file/d/1anxrCgp4z1RyB_A6TpeE1rK99xt270j-/view
-   - «Проблеми транспорту та мобільності в об'єднаних територіальних громадах» (GIZ, U-LEAD, 2019):https://sutp.org/publications/u-lead-mobility-sociology-report/
-   - ЮРИДИЧНИЙ ЗВІТ "Про результати аналізу правового регулювання у сфері сталої міської мобільності в об'єднаних територіальних громадах України" (GIZ, U-LEAD, 2019): https://sutp.org/publications/u-lead-mobility-legal-report/
-   - АНАЛІТИЧНИЙ ЗВІТ "Про результати базового дослідження ситуації у сфері сталої місцевої мобільності в об'єднаних територіальних громадах України" (GIZ, U-LEAD, 2019): https://sutp.org/publications/baseline-report-on-sustainable-local-mobility-in-amalgamated-hromadas-of-ukraine/
-   -  МОБІЛЬНІСТЬ ГРОМАД ІНФОРМАЦІЙНИЙ БЮЛЕТЕНЬ #1-#6: https://sutp.org/all-publications/?_sf_s=Bulletin&_sft_sutp_lang=uk
+   - <b> Реалізація Європейського Зеленого Курсу в Транспорті Та Формування Сталої Мобільності </b> (BRDO, 2022) https://regulation.gov.ua/book/180-zelena-kniga-realizacia-evropejskogo-zelenogo-kursu-v-transporti-ta-formuvanna-staloi-mobilnosti
+   - <b> Стала Мобільність у Громадах: рекомендації щодо відновлення </b> (U-LEAD, Вадим Денисенко, 2022) https://u-lead.org.ua/storage/admin/files/b741f8157d9afdf578ba1872e7aed1c3.pdf
+   - <b> The Urban Transport Sector in Ukraine </b> (Oresund LLC, 2022) https://drive.google.com/file/d/1anxrCgp4z1RyB_A6TpeE1rK99xt270j-/view
+   - <b> Проблеми транспорту та мобільності в об'єднаних територіальних громадах  </b> (GIZ, U-LEAD, 2019):https://sutp.org/publications/u-lead-mobility-sociology-report/
+   - <b> Юридичний Звіт: "Про результати аналізу правового регулювання у сфері сталої міської мобільності в об'єднаних територіальних громадах України" </b> (GIZ, U-LEAD, 2019): https://sutp.org/publications/u-lead-mobility-legal-report/
+   - <b> Аналітичний Звіт: "Про результати базового дослідження ситуації у сфері сталої місцевої мобільності в об'єднаних територіальних громадах України" </b> (GIZ, U-LEAD, 2019): https://sutp.org/publications/baseline-report-on-sustainable-local-mobility-in-amalgamated-hromadas-of-ukraine/
+   - <b> Мобільність Громад Інформаційний Бюлетень #1-#6 </b>: https://sutp.org/all-publications/?_sf_s=Bulletin&_sft_sutp_lang=uk
 
   
  - Documents about mobility and transport translated to Ukrainian language:
