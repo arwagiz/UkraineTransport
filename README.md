@@ -94,21 +94,21 @@ https://documents1.worldbank.org/curated/en/498021530861926262/pdf/Sustainable-M
   - <b> Sustainable Urban Mobility Plan for Poltava </b>, 2019: https://www.mobiliseyourcity.net/sites/default/files/2022-08/SUMP_Poltava_ENG.pdf
  
 - Sumy
-  - ФІНАНСОВЕ ПЛАНУВАННЯ ДЛЯ ПСММ М. СУМИ (Egis, 2020): https://drive.google.com/file/d/1__-CEzw9utZAzCVwbjjjaOshIDNevmdJ/view?usp=drive_link 
+  - <b> Фінансове Планування Для ПСММ м. Суми </b> (Egis, 2020): https://drive.google.com/file/d/1__-CEzw9utZAzCVwbjjjaOshIDNevmdJ/view?usp=drive_link 
  
 - Vinnytsia
-  - КОМПЛЕКСНА СТРАТЕГІЯ МІСЬКОГО ТРАНСПОРТУ І ПРОСТОРОВОГО РОЗВИТКУ (mrs partner ag, Van de Wetering Atelier für Städtebau GmbH, Ernst Basler + Partner AG, 2015)
+  - <b> Комплексна Стратегія Міського Транспорту І Просторового Розвитку </b>  (mrs partner ag, Van de Wetering Atelier für Städtebau GmbH, Ernst Basler + Partner AG, 2015)
 https://2021.vmr.gov.ua/ContentLibrary/C%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D1%96%D1%8F%20%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%D1%83.pdf  
-  - Концепція інтегрованого розвитку міста Вінниці 2030 (2019): https://2021.vmr.gov.ua/Lists/IntegratedUrbanDevelopment/Default.aspx 
+  - <b>  Концепція інтегрованого розвитку міста Вінниці 2030 </b>  (2019): https://2021.vmr.gov.ua/Lists/IntegratedUrbanDevelopment/Default.aspx 
 
 - Zhytomyr:  
-  - Zhytomyr: Sustainable Urban Mobility Plan for Zhytomyr, 2019: https://www.mobiliseyourcity.net/sites/default/files/2022-08/SUMP%20Zhytomyr.pdf
+  - <b> Sustainable Urban Mobility Plan for Zhytomyr </b> , 2019: https://www.mobiliseyourcity.net/sites/default/files/2022-08/SUMP%20Zhytomyr.pdf
 
 ### Studies and research papers <a name="studies-research"></a> 
 
 - Lviv:
-  - Public transport in Lviv. History and statistics 2022: https://transformative-mobility.org/multimedia/public-transport-in-lviv-history-and-statistics-2022/
-  - From Streets for Cars to Streets for All: https://transformative-mobility.org/focus-area/tumi-e-mobility/lviv-ukraine/
+  - <b> Public transport in Lviv. History and statistics 2022 </b>: https://transformative-mobility.org/multimedia/public-transport-in-lviv-history-and-statistics-2022/
+  - </b> From Streets for Cars to Streets for All <b>: https://transformative-mobility.org/focus-area/tumi-e-mobility/lviv-ukraine/
   - Mobility Research 2021 (cold season): https://transformative-mobility.org/lviv-mobility-research-2021-cold-season/
   - Report on the results of the survey on public transport in Lviv 2022: https://transformative-mobility.org/multimedia/report-on-the-results-of-the-survey-on-public-transport-in-lviv-2022/
  
