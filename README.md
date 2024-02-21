@@ -34,7 +34,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
     - <b>Integration of the Ukrainian and Moldavian Railway System into the EU transport system </b>, EIB, DG MOVE: https://transport.ec.europa.eu/system/files/2023-07/Integration_of_the_UAMD_railway_system_into_the_EU_transport_system.pdf
  
 - Recovery plans
-    -   <b> Ukraine Recovery Plan 2022 </b>: https://www.urc-international.com/urc2022-recovery-plan
+    -  <b> Ukraine Recovery Plan 2022 </b>: https://www.urc-international.com/urc2022-recovery-plan
+    -  </b> Third Rapid Damage and Needs Assessment (RDNA3) </b> February 2022 – December 2023: World Bank, 2024: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099021324115085807/p1801741bea12c012189ca16d95d8c2556a
 
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 
