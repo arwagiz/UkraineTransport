@@ -108,9 +108,9 @@ https://2021.vmr.gov.ua/ContentLibrary/C%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D1%
 
 - Lviv:
   - <b> Public transport in Lviv. History and statistics 2022 </b>: https://transformative-mobility.org/multimedia/public-transport-in-lviv-history-and-statistics-2022/
-  - </b> From Streets for Cars to Streets for All <b>: https://transformative-mobility.org/focus-area/tumi-e-mobility/lviv-ukraine/
-  - Mobility Research 2021 (cold season): https://transformative-mobility.org/lviv-mobility-research-2021-cold-season/
-  - Report on the results of the survey on public transport in Lviv 2022: https://transformative-mobility.org/multimedia/report-on-the-results-of-the-survey-on-public-transport-in-lviv-2022/
+  - <b> From Streets for Cars to Streets for All </b>: https://transformative-mobility.org/focus-area/tumi-e-mobility/lviv-ukraine/
+  - <b> Mobility Research 2021 (cold season) </b>: https://transformative-mobility.org/lviv-mobility-research-2021-cold-season/
+  - <b> Report on the results of the survey on public transport in Lviv 2022 </b>: https://transformative-mobility.org/multimedia/report-on-the-results-of-the-survey-on-public-transport-in-lviv-2022/
  
  - General:
 
