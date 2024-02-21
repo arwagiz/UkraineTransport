@@ -35,6 +35,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
  
 - Recovery plans
     -  <b> Ukraine Recovery Plan 2022 </b>: https://www.urc-international.com/urc2022-recovery-plan
+    -  <b> Ukraine Rapid Damage and Needs Assessment (RDNA2) </b>: February 2022 - February 2023: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099184503212328877/p1801740d1177f03c0ab180057556615497
     -  </b> Third Rapid Damage and Needs Assessment (RDNA3) </b> February 2022 – December 2023: World Bank, 2024: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099021324115085807/p1801741bea12c012189ca16d95d8c2556a
 
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
@@ -147,12 +148,11 @@ https://2021.vmr.gov.ua/ContentLibrary/C%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D1%
     - <b> На шляху до комфортніших для життя та безпечніших міст - Приклади планування безпечної дорожньої інфраструктури </b> (GIZ, 2018): https://sutp.org/download/9588/?tmstv=1707472379
     - <b> Комплексний підхід до безпеки дорожнього руху: приклад Німеччини </b> (GIZ, 2016): https://sutp.org/download/9502/?tmstv=1707472494
     - <b> Інтеграція громадського транспорту та альянси перевізників </b> (GIZ, 2018): https://sutp.org/download/9597/?tmstv=1707472617
-    - <b> 5 принципів сталої мобільності у вашій громаді <b> (GIZ, 2019): https://sutp.org/publications/u-lead-poster/#
+    - <b> 5 принципів сталої мобільності у вашій громаді </b> (GIZ, 2019): https://sutp.org/publications/u-lead-poster/#
     - <b> Управління попитом на транспортні послуги </b> (GIZ, 2009): https://sutp.org/publications/baseline-report-on-sustainable-local-mobility-in-amalgamated-hromadas-of-ukraine/
 
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
 
-- Ukraine Rapid Damage and Needs Assessment (RDNA2): February 2022 - February 2023: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099184503212328877/p1801740d1177f03c0ab180057556615497
 - Commission further integrates Ukraine into EU Single Market through the Connecting Europe Facility for infrastructure funding: https://ec.europa.eu/commission/presscorner/detail/en/ip_23_3061
 
 ### Data <a name="data"></a>
