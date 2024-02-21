@@ -23,7 +23,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### National Vision, Strategy, Masterplan <a name="national-vision-strategy-masterplan"></a> 
 
 - <b> National Transport Strategy of Ukraine for the period up to 2030 </b> (Cabinet of Ministers of Ukraine, 2018): https://zakon.rada.gov.ua/laws/show/430-2018-%D1%80#Text (English version: https://mtu.gov.ua/files/for_investors/230118/National%20Transport%20Strategy%20of%20Ukraine.pdf)
-- <b> ОНОВЛЕНА ТРАНСПОРТНА СТРАТЕГІЯ УКРАЇНИ: НАПРЯМКИ ПОЛІТИКИ </b> (Ministry of Infrastructure Ukraine,  : https://mtu.gov.ua/files/strategy_ukr.pdf
+- <b> Оновлена Транспортна Стратегія України: Напрямки Політики </b> (Ministry of Infrastructure Ukraine,  : https://mtu.gov.ua/files/strategy_ukr.pdf
 - Національна доповідь <b> «Цілі Сталого Розвитку: Україна» </b> (Міністерство економічного розвитку і торгівлі України, 2017) // National report "Sustainable Development Goals: Ukraine" (Ministry of Economic Development and Trade of Ukraine, 2017): https://me.gov.ua/Documents/Download?id=22e86f94-a9dd-421e-adcb-e38748a4b7cb
 
 
@@ -33,8 +33,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Railways:
     - <b>Integration of the Ukrainian and Moldavian Railway System into the EU transport system </b>, EIB, DG MOVE: https://transport.ec.europa.eu/system/files/2023-07/Integration_of_the_UAMD_railway_system_into_the_EU_transport_system.pdf
  
-- <b> Recovery plans </b>
-    -  Ukraine Recovery Plan 2022: https://www.urc-international.com/urc2022-recovery-plan
+- Recovery plans
+    -   <b> Ukraine Recovery Plan 2022 </b>: https://www.urc-international.com/urc2022-recovery-plan
 
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 
@@ -81,17 +81,17 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Lviv:
   - <b> Sustainable Urban Mobility Plan for Lviv </b> https://www.mobiliseyourcity.net/sites/default/files/2020-10/Sustainable%20Urban%20Mobility%20Plan%20of%20Lviv_digital-compressed.pdf
   - <b> Sustainable urban mobility plan </b> (GIZ, Basler & Hofmann AG, Van de Wetering Atelier für Städtebau GmbH, Burkhard Horn: Mobilität & Verkehr - Strategie & Planung, 2019) https://www8.city-adm.lviv.ua/Pool/Info/doclmr_1.NSF/(SearchForWeb)/944FD4B2757ED859C225875F002B36C2?OpenDocument
-  - Lviv Green City ActionPlan, EBRD, 2020: https://ebrdgreencities.com/assets/Uploads/PDF/Lviv-GCAP-Final-ENG-merged_May2020.pdf (Ukrainian: https://ebrdgreencities.com/assets/Uploads/PDF/Lviv-GCAP-Final-UKR-merged_May-2020.pdf)
-  - Стратегія міського транспортного руху у м. Львові (PTV Planung Transport Verkehr AG, VCDB VerkehrsConsult, 2009)  https://drive.google.com/drive/folders/1MAqkzTU-vGlQ9aJEhR4ETdrxby59edqk?usp=drive_link 
-  - LVIV PUBLIC TRANSPORT – URBAN TRANSPORT REGULATORY IMPROVEMENT (Louis Berger, EBRD, CIDA, 2011); 
-  - Integrated concept of Lviv downtown development (GIZ, 2011): https://www.slideshare.net/lingvo/integrated-concept-of-lviv-downtown-development , http://www.urban-project.lviv.ua/php_uploads/data/articles/ArticleFiles_UA_182.pdf 
+  -  <b> Lviv Green City Action Plan  </b> , EBRD, 2020: https://ebrdgreencities.com/assets/Uploads/PDF/Lviv-GCAP-Final-ENG-merged_May2020.pdf (Ukrainian: https://ebrdgreencities.com/assets/Uploads/PDF/Lviv-GCAP-Final-UKR-merged_May-2020.pdf)
+  - <b> Стратегія міського транспортного руху у м. Львові </b> (PTV Planung Transport Verkehr AG, VCDB VerkehrsConsult, 2009)  https://drive.google.com/drive/folders/1MAqkzTU-vGlQ9aJEhR4ETdrxby59edqk?usp=drive_link 
+  - <b> Lviv Public Transport – Urban Transport Regulatory Improvement </b> (Louis Berger, EBRD, CIDA, 2011); 
+  - <b> Integrated concept of Lviv downtown development </b> (GIZ, 2011): https://www.slideshare.net/lingvo/integrated-concept-of-lviv-downtown-development , http://www.urban-project.lviv.ua/php_uploads/data/articles/ArticleFiles_UA_182.pdf 
 
 - Odesa:
-  - Sustainable Mobility for Odessa. A road map for improving accessibility and energy efficiency (World Bank. 2018. Sustainable Mobility for Odessa. © World Bank.)  
+  - <b> Sustainable Mobility for Odessa. A road map for improving accessibility and energy efficiency </b> (World Bank. 2018. Sustainable Mobility for Odessa. © World Bank.)  
 https://documents1.worldbank.org/curated/en/498021530861926262/pdf/Sustainable-Mobility-for-Odessa.pdf 
 
 - Poltava: 
-  - Poltava: Sustainable Urban Mobility Plan for Poltava, 2019: https://www.mobiliseyourcity.net/sites/default/files/2022-08/SUMP_Poltava_ENG.pdf
+  - <b> Sustainable Urban Mobility Plan for Poltava </b>, 2019: https://www.mobiliseyourcity.net/sites/default/files/2022-08/SUMP_Poltava_ENG.pdf
  
 - Sumy
   - ФІНАНСОВЕ ПЛАНУВАННЯ ДЛЯ ПСММ М. СУМИ (Egis, 2020): https://drive.google.com/file/d/1__-CEzw9utZAzCVwbjjjaOshIDNevmdJ/view?usp=drive_link 
