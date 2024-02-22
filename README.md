@@ -116,6 +116,9 @@ https://2021.vmr.gov.ua/ContentLibrary/C%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D1%
  
  - General:
 
+   - <b> Аналітичний огляд "Зобов'язання з надання транспортних послуг (модель PSO) як частина євроінтеграції України” </b> (NGO Vision Zero, 2024) https://enefcities.org.ua/upload/files/Publications/Urban%20Mobility/PSO.pdf 
+   - <b> Дослідження трамвайних систем у містах України у 2023 році / Study of tram systems in Ukrainian cities in 2023  </b> UA / EN (NGO Vision Zero, 2024)
+  https://enefcities.org.ua/upload/files/Publications/Urban%20Mobility/Trams.pdf // https://enefcities.org.ua/upload/files/Publications/Urban%20Mobility/ENGtrams.pdf 
    - <b> The Urban Transport Sector in Ukraine in 2022: A baseline report in the context of the War of 2022 and prospects for a green post-war recovery </b> https://www.slideshare.net/viktoza/the-urban-transport-sector-in-ukraine-in-2022-a-baseline-report-in-the-context-of-the-war-of-2022-and-prospects-for-a-green-postwar-recovery
    - <b> Ukraine Transport Almanac 2022 </b>: https://transformative-mobility.org/multimedia/ukraine-transport-almanac-2022/
    - <b> Anchoring green recovery of urban mobility in Ukraine: Eight building blocks </b>: https://transformative-mobility.org/anchoring-green-recovery-of-urban-mobility-in-ukraine-eight-building-blocks/
