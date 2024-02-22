@@ -27,7 +27,6 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Національна доповідь <b> «Цілі Сталого Розвитку: Україна» </b> (Міністерство економічного розвитку і торгівлі України, 2017) // National report "Sustainable Development Goals: Ukraine" (Ministry of Economic Development and Trade of Ukraine, 2017): https://me.gov.ua/Documents/Download?id=22e86f94-a9dd-421e-adcb-e38748a4b7cb
 
 
-
 ### Other national and sectoral documents <a name="other-national-sectoral-documents"></a> 
 
 - Railways:
@@ -117,8 +116,8 @@ https://2021.vmr.gov.ua/ContentLibrary/C%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D1%
  - General:
 
    - <b> Аналітичний огляд "Зобов'язання з надання транспортних послуг (модель PSO) як частина євроінтеграції України” </b> (NGO Vision Zero, 2024) https://enefcities.org.ua/upload/files/Publications/Urban%20Mobility/PSO.pdf 
-   - <b> Дослідження трамвайних систем у містах України у 2023 році / Study of tram systems in Ukrainian cities in 2023  </b> UA / EN (NGO Vision Zero, 2024)
-  https://enefcities.org.ua/upload/files/Publications/Urban%20Mobility/Trams.pdf // https://enefcities.org.ua/upload/files/Publications/Urban%20Mobility/ENGtrams.pdf 
+   - <b> Дослідження трамвайних систем у містах України у 2023 році / Study of tram systems in Ukrainian cities in 2023  </b> (NGO Vision Zero, 2024)
+  UA: https://enefcities.org.ua/upload/files/Publications/Urban%20Mobility/Trams.pdf //EN:  https://enefcities.org.ua/upload/files/Publications/Urban%20Mobility/ENGtrams.pdf 
    - <b> The Urban Transport Sector in Ukraine in 2022: A baseline report in the context of the War of 2022 and prospects for a green post-war recovery </b> https://www.slideshare.net/viktoza/the-urban-transport-sector-in-ukraine-in-2022-a-baseline-report-in-the-context-of-the-war-of-2022-and-prospects-for-a-green-postwar-recovery
    - <b> Ukraine Transport Almanac 2022 </b>: https://transformative-mobility.org/multimedia/ukraine-transport-almanac-2022/
    - <b> Anchoring green recovery of urban mobility in Ukraine: Eight building blocks </b>: https://transformative-mobility.org/anchoring-green-recovery-of-urban-mobility-in-ukraine-eight-building-blocks/
@@ -170,7 +169,7 @@ Disclaimer: Findings, interpretations and conclusions expressed in this chart ar
 
 Contributors:
 - Tuan Do: tuan.do@giz.de
-
+- Demyan Danylyuk: demyan.danylyuk@gmail.com
 
 Compiled by / Contact:
 - Armin Wagner: armin.wagner@giz.de
