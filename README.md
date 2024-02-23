@@ -144,9 +144,9 @@ https://2021.vmr.gov.ua/ContentLibrary/C%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D1%
   
  - Documents about mobility and transport translated to Ukrainian language:
 
-    - <b> Європейська міська мобільність. Передумови для розвитку політики </b>: https://docs.google.com/document/d/1bdwwhgeUgD88JUg4iCTIc-BLXb59p6s2/edit?usp=drive_link&ouid=111416506735966448388&rtpof=true&sd=true 
-    - <b> Пішохідний, Велосипедний Рух І Транспортні Затори. 15 Коротких Фактів Для Міст </b> (FLOW): https://drive.google.com/file/d/1ndfFJzzd6VBCTZoshZ3VPfPCQe6CdjkC/view?usp=drive_link 
-    - <b> Міська мобільність: готуємось до майбутнього з уроками минулого (CREATE) </b>: https://drive.google.com/file/d/1OuCBcB8qrFXZcZ2Ud5zIDaiME8rOvgKN/view?usp=drive_link 
+    - <b> Європейська міська мобільність. Передумови для розвитку політики </b> *(European urban mobility. Preconditions for policy development )*: https://docs.google.com/document/d/1bdwwhgeUgD88JUg4iCTIc-BLXb59p6s2/edit?usp=drive_link&ouid=111416506735966448388&rtpof=true&sd=true 
+    - <b> Пішохідний, Велосипедний Рух І Транспортні Затори. 15 Коротких Фактів Для Міст </b> *(Pedestrian, Cycling and Traffic Congestion. 15 Quick Facts for Cities)* (FLOW): https://drive.google.com/file/d/1ndfFJzzd6VBCTZoshZ3VPfPCQe6CdjkC/view?usp=drive_link 
+    - <b> Міська мобільність: готуємось до майбутнього з уроками минулого, *(Urban mobility: preparing for the future with lessons from the past )* (CREATE) </b>: https://drive.google.com/file/d/1OuCBcB8qrFXZcZ2Ud5zIDaiME8rOvgKN/view?usp=drive_link 
     - <b> Сталі Та Безпечні Дороги. Концепція та методологія для досягнення нульового рівня смертності в ДТП </b> (WRI, 2018): https://drive.google.com/file/d/1XKJYR7PYRfEJrc4c8O5TzYicHE1VjPYJ/view 
     - <b> Посібник Дорожніх «Хвороб» </b> (CoST Ukraine, USAID, 2019): https://zakon.help/files/article/10842/%D0%9F%D0%9E%D0%A1%D0%86%D0%91%D0%9D%D0%98%D0%9A%20%D0%94%D0%9E%D0%A0%D0%9E%D0%96%D0%9D%D0%86%D0%A5%20_%D0%A5%D0%92%D0%9E%D0%A0%D0%9E%D0%91_.pdf 
     - <b> На шляху до комфортніших для життя та безпечніших міст - Приклади планування безпечної дорожньої інфраструктури </b> (GIZ, 2018): https://sutp.org/download/9588/?tmstv=1707472379
