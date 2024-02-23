@@ -25,18 +25,18 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - <b> National Transport Strategy of Ukraine for the period up to 2030 </b> (Cabinet of Ministers of Ukraine, 2018): https://zakon.rada.gov.ua/laws/show/430-2018-%D1%80#Text (English version: https://mtu.gov.ua/files/for_investors/230118/National%20Transport%20Strategy%20of%20Ukraine.pdf)
 - <b> Оновлена Транспортна Стратегія України: Напрямки Політики </b> *(Updated Transport Strategy of Ukraine Policy Directions)*, Ministry of Infrastructure Ukraine: https://mtu.gov.ua/files/strategy_ukr.pdf
 - Національна доповідь <b> «Цілі Сталого Розвитку: Україна» </b> (Міністерство економічного розвитку і торгівлі України, 2017) // National report "Sustainable Development Goals: Ukraine" (Ministry of Economic Development and Trade of Ukraine, 2017): https://me.gov.ua/Documents/Download?id=22e86f94-a9dd-421e-adcb-e38748a4b7cb
-- <b> Ukraine’s Reforms Matrix: Reforms And Conditionalities 2024 </b>, Cabinet of Ministers: https://www.kmu.gov.ua/storage/app/sites/1/reform_images/presentation-on-ukraines-reforms-matrix.pdf
+- <b> Ukraine’s Reforms Matrix: Reforms And Conditionalities 2024 </b>, (Cabinet of Ministers, 2024): https://www.kmu.gov.ua/storage/app/sites/1/reform_images/presentation-on-ukraines-reforms-matrix.pdf
 
 
 ### Other national and sectoral documents <a name="other-national-sectoral-documents"></a> 
 
 - Railways:
-    - <b>Integration of the Ukrainian and Moldavian Railway System into the EU transport system </b>, EIB, DG MOVE: https://transport.ec.europa.eu/system/files/2023-07/Integration_of_the_UAMD_railway_system_into_the_EU_transport_system.pdf
+    - <b>Integration of the Ukrainian and Moldavian Railway System into the EU transport system </b>, (EIB, DG MOVE, 2023): https://transport.ec.europa.eu/system/files/2023-07/Integration_of_the_UAMD_railway_system_into_the_EU_transport_system.pdf
  
 - Recovery plans
-    -  <b> Third Rapid Damage and Needs Assessment (RDNA3) </b> February 2022 – December 2023: World Bank, 2024: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099021324115085807/p1801741bea12c012189ca16d95d8c2556a
+    -  <b> Third Rapid Damage and Needs Assessment (RDNA3) </b> February 2022 – December 2023 (World Bank, 2024): https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099021324115085807/p1801741bea12c012189ca16d95d8c2556a
     -  <b> Ukraine Recovery Plan 2022 </b>: https://www.urc-international.com/urc2022-recovery-plan
-    -  <b> Ukraine Rapid Damage and Needs Assessment (RDNA2) </b>: February 2022 - February 2023: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099184503212328877/p1801740d1177f03c0ab180057556615497
+    -  <b> Ukraine Rapid Damage and Needs Assessment (RDNA2) </b>: February 2022 - February 2023 (World Bank 2023): https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099184503212328877/p1801740d1177f03c0ab180057556615497
 
 
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
@@ -70,7 +70,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
   - <b> Транспортна концепція міста Івано-Франківська </b> *(Transport concept for the city of Ivano-Frankivsk)* (​​DREBERIS GmbH, PTV Transport Consult GmbH Dresden, GIZ, 2015): https://drive.google.com/file/d/1ekcW5qkgeaFtAWegfa9mIVOYaURT_5d3/view?usp=drive_link 
 
 - Khmelnytskyi:
-  - <b> Green City Action Plan </b>: https://ebrdgreencities.com/assets/Uploads/PDF/KhmelnytskyiGCAP_Eng_FINAL.pdf?vid=3 (Ukrainian: https://ebrdgreencities.com/assets/Uploads/PDF/Khlnytskyi-GCAP_Ukr_FINAL_Apr-2023.pdf?vid=3)
+  - <b> Green City Action Plan </b> (EBRD, 2023): https://ebrdgreencities.com/assets/Uploads/PDF/KhmelnytskyiGCAP_Eng_FINAL.pdf?vid=3 (Ukrainian: https://ebrdgreencities.com/assets/Uploads/PDF/Khlnytskyi-GCAP_Ukr_FINAL_Apr-2023.pdf?vid=3)
     
 - Kyiv
   - <b> Дослідження сталого розвитку міського транспорту </b> *(Research on the sustainable development of urban transport)* (Integrated Transport Planning Ltd, 2015): https://kmr.gov.ua/sites/default/files/3795-doslidzhennya_stalogo_rozvytku_miskogo_transportu_svitovyy_bank_0.pdf 
@@ -135,7 +135,7 @@ https://2021.vmr.gov.ua/ContentLibrary/C%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D1%
    - <b> Юридичний Звіт: "Про результати аналізу правового регулювання у сфері сталої міської мобільності в об'єднаних територіальних громадах України" </b> *(Legal Report: "On the Results of the Analysis of Legal Regulation in the Field of Sustainable Urban Mobility in Amalgamated Territorial Communities of Ukraine)* (GIZ, U-LEAD, 2019): https://sutp.org/publications/u-lead-mobility-legal-report/
    - <b> Аналітичний Звіт: "Про результати базового дослідження ситуації у сфері сталої місцевої мобільності в об'єднаних територіальних громадах України" </b> *(Analytical Report: "On the Results of the Baseline Study of the Situation in the Field of Sustainable Local Mobility in Amalgamated Territorial Communities of Ukraine")* (GIZ, U-LEAD, 2019): https://sutp.org/publications/baseline-report-on-sustainable-local-mobility-in-amalgamated-hromadas-of-ukraine/
    - <b> Мобільність Громад Інформаційний Бюлетень #1-#6 </b> *(Mobility in Hromadas - Newsletter #1-#6)*: https://sutp.org/all-publications/?_sf_s=Bulletin&_sft_sutp_lang=uk
-   - <b> Україна - Огляд урбанізації </b> *(Ukraine - Overview of urbanisation)* ( 2015 Міжнародний банк реконструкції та розвитку / Світовий банк):   https://documents1.worldbank.org/curated/en/787061473856627628/pdf/ACS15060-REVISED-PUBLIC-UKRANIAN-ukr-web-text-cover.pdf
+   - <b> Україна - Огляд урбанізації </b> *(Ukraine - Overview of urbanisation)* (World Bank, 2015):   https://documents1.worldbank.org/curated/en/787061473856627628/pdf/ACS15060-REVISED-PUBLIC-UKRANIAN-ukr-web-text-cover.pdf
    - <b> Стала мобільність. Аналіз законодавства та практик України </b> *(Sustainable mobility. Analysis of Ukrainian legislation and practices)*  (ЄС — Чернівецька міська рада, БАРР, Вадим Денисенко, Тетяна Усик, Денис Моляка, 2018): https://issuu.com/bard_ngo/docs/1._________________________________
    - <b> Вплив транспорту на екологію міста. Аналіз та стратегії для України </b> *(The impact of transport on urban ecology. Analysis and strategies for Ukraine  (ГО Міські реформи, Олена Чернишова, Харків, 2016) https://ucn.org.ua/wp-content/uploads/2017/02/transport-ukr4_small.pdf
    - <b> Технічна Допомога Ініціативі Управління Паркуванням в Києві </b> *(Technical Assistance to the Kyiv Parking Management Initiative)* (USAID, SARECO, ITDP, Gide, 2015): https://www.usaid.gov/uk/document/technical-assistance-parking-management-initiative-kyiv https://www.usaid.gov/sites/default/files/2022-05/Kyiv%20Parking%20Assessment%20-%20Final%20Report%20%20UKR%20PL.pdf
