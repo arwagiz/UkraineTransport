@@ -23,7 +23,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### National Vision, Strategy, Masterplan <a name="national-vision-strategy-masterplan"></a> 
 
 - <b> National Transport Strategy of Ukraine for the period up to 2030 </b> (Cabinet of Ministers of Ukraine, 2018): https://zakon.rada.gov.ua/laws/show/430-2018-%D1%80#Text (English version: https://mtu.gov.ua/files/for_investors/230118/National%20Transport%20Strategy%20of%20Ukraine.pdf)
-- <b> Оновлена Транспортна Стратегія України: Напрямки Політики </b> (Ministry of Infrastructure Ukraine,  : https://mtu.gov.ua/files/strategy_ukr.pdf
+- <b> Оновлена Транспортна Стратегія України: Напрямки Політики </b> (Updated Transport Strategy of Ukraine Policy Directions), Ministry of Infrastructure Ukraine: https://mtu.gov.ua/files/strategy_ukr.pdf
 - Національна доповідь <b> «Цілі Сталого Розвитку: Україна» </b> (Міністерство економічного розвитку і торгівлі України, 2017) // National report "Sustainable Development Goals: Ukraine" (Ministry of Economic Development and Trade of Ukraine, 2017): https://me.gov.ua/Documents/Download?id=22e86f94-a9dd-421e-adcb-e38748a4b7cb
 
 
@@ -62,10 +62,10 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### Local Transport Plans <a name="local-transport-plans"></a>  
 
 - Chernihiv
-  - <b> Розробка Та Реалізація Моделі Оптимізації Міських Пасажирських Перевезень </b> (НУ Чернігівська політехніка, 2021): https://drive.google.com/file/d/1jLiyrwzUSg67SsYZhnhWYLavJGQWRXjQ/view?usp=drive_link
+  - <b> Розробка Та Реалізація Моделі Оптимізації Міських Пасажирських Перевезень </b> (Development and Implementation of an Urban Passenger Transport Optimisation Model) (НУ Чернігівська політехніка, 2021): https://drive.google.com/file/d/1jLiyrwzUSg67SsYZhnhWYLavJGQWRXjQ/view?usp=drive_link
  
 - Ivano-Frankivsk
-  - <b> Транспортна концепція міста Івано-Франківська </b> (​​DREBERIS GmbH, PTV Transport Consult GmbH Dresden, GIZ, 2015): https://drive.google.com/file/d/1ekcW5qkgeaFtAWegfa9mIVOYaURT_5d3/view?usp=drive_link 
+  - <b> Транспортна концепція міста Івано-Франківська </b> (Transport concept for the city of Ivano-Frankivsk) (​​DREBERIS GmbH, PTV Transport Consult GmbH Dresden, GIZ, 2015): https://drive.google.com/file/d/1ekcW5qkgeaFtAWegfa9mIVOYaURT_5d3/view?usp=drive_link 
 
 - Khmelnytskyi:
   - <b> Green City Action Plan </b>: https://ebrdgreencities.com/assets/Uploads/PDF/KhmelnytskyiGCAP_Eng_FINAL.pdf?vid=3 (Ukrainian: https://ebrdgreencities.com/assets/Uploads/PDF/Khlnytskyi-GCAP_Ukr_FINAL_Apr-2023.pdf?vid=3)
