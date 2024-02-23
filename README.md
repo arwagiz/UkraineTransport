@@ -149,11 +149,11 @@ https://2021.vmr.gov.ua/ContentLibrary/C%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D1%
     - <b> Міська мобільність: готуємось до майбутнього з уроками минулого, *(Urban mobility: preparing for the future with lessons from the past )* (CREATE) </b>: https://drive.google.com/file/d/1OuCBcB8qrFXZcZ2Ud5zIDaiME8rOvgKN/view?usp=drive_link 
     - <b> Сталі Та Безпечні Дороги. Концепція та методологія для досягнення нульового рівня смертності в ДТП </b> (WRI, 2018): https://drive.google.com/file/d/1XKJYR7PYRfEJrc4c8O5TzYicHE1VjPYJ/view 
     - <b> Посібник Дорожніх «Хвороб» </b> (CoST Ukraine, USAID, 2019): https://zakon.help/files/article/10842/%D0%9F%D0%9E%D0%A1%D0%86%D0%91%D0%9D%D0%98%D0%9A%20%D0%94%D0%9E%D0%A0%D0%9E%D0%96%D0%9D%D0%86%D0%A5%20_%D0%A5%D0%92%D0%9E%D0%A0%D0%9E%D0%91_.pdf 
-    - <b> На шляху до комфортніших для життя та безпечніших міст - Приклади планування безпечної дорожньої інфраструктури </b> (GIZ, 2018): https://sutp.org/download/9588/?tmstv=1707472379
-    - <b> Комплексний підхід до безпеки дорожнього руху: приклад Німеччини </b> (GIZ, 2016): https://sutp.org/download/9502/?tmstv=1707472494
-    - <b> Інтеграція громадського транспорту та альянси перевізників </b> (GIZ, 2018): https://sutp.org/download/9597/?tmstv=1707472617
-    - <b> 5 принципів сталої мобільності у вашій громаді </b> (GIZ, 2019): https://sutp.org/publications/u-lead-poster/#
-    - <b> Управління попитом на транспортні послуги </b> (GIZ, 2009): https://sutp.org/publications/baseline-report-on-sustainable-local-mobility-in-amalgamated-hromadas-of-ukraine/
+    - <b> На шляху до комфортніших для життя та безпечніших міст - Приклади планування безпечної дорожньої інфраструктури </b> *(Towards more livable and safer cities - Examples of safe road infrastructure planning)* (GIZ, 2018): https://sutp.org/download/9588/?tmstv=1707472379
+    - <b> Комплексний підхід до безпеки дорожнього руху: приклад Німеччини </b> *(An integrated approach to road safety: the example of Germany)* (GIZ, 2016): https://sutp.org/download/9502/?tmstv=1707472494
+    - <b> Інтеграція громадського транспорту та альянси перевізників </b> *(Public Transport Integration and Transit Alliances)* (GIZ, 2018): https://sutp.org/download/9597/?tmstv=1707472617
+    - <b> 5 принципів сталої мобільності у вашій громаді </b> *(5 Prinicples for Sustainable Mobility in Hromadas)* (GIZ, 2019): https://sutp.org/publications/u-lead-poster/#
+    - <b> Управління попитом на транспортні послуги </b> *(Transport Demand Management)* (GIZ, 2009): https://sutp.org/publications/baseline-report-on-sustainable-local-mobility-in-amalgamated-hromadas-of-ukraine/
 
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
 
