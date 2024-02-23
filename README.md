@@ -71,19 +71,19 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
   - <b> Green City Action Plan </b>: https://ebrdgreencities.com/assets/Uploads/PDF/KhmelnytskyiGCAP_Eng_FINAL.pdf?vid=3 (Ukrainian: https://ebrdgreencities.com/assets/Uploads/PDF/Khlnytskyi-GCAP_Ukr_FINAL_Apr-2023.pdf?vid=3)
     
 - Kyiv
-  - <b> Дослідження сталого розвитку міського транспорту </b> (Integrated Transport Planning Ltd, 2015): https://kmr.gov.ua/sites/default/files/3795-doslidzhennya_stalogo_rozvytku_miskogo_transportu_svitovyy_bank_0.pdf 
-  - <b> Стратегія Розвитку Міста Києва До 2025 Року </b>, с.57: https://dei.kyivcity.gov.ua/files/2017/7/28/Strategy2025new.pdf
+  - <b> Дослідження сталого розвитку міського транспорту </b> (Research on the sustainable development of urban transport) (Integrated Transport Planning Ltd, 2015): https://kmr.gov.ua/sites/default/files/3795-doslidzhennya_stalogo_rozvytku_miskogo_transportu_svitovyy_bank_0.pdf 
+  - <b> Стратегія Розвитку Міста Києва До 2025 Року </b>, с.57 (Kyiv City Development Strategy 2025): https://dei.kyivcity.gov.ua/files/2017/7/28/Strategy2025new.pdf
   - <b> Kyiv Urban Mobility Project </b> https://documents.worldbank.org/en/publication/documents-reports/documentdetail/638411619182035205/project-information-document-kyiv-urban-mobility-project-p170290
   - <b> Green City Action Plan </b>: https://drive.google.com/file/d/1X8Sx0wIdpD0OiZZr_uVf4q2s1jVbXjmt/view // https://kyivcity.gov.ua/navkolyshnie_seredovyshche_mista/Green_City/dokumenti_ta_prezentatsi/
  
 - Mykolaiv
-  - <b> План сталої міської мобільності міста Миколаїв </b> (“А+С Україна”, 2019): https://mkrada.gov.ua/files/2019/8_2019/SUMP%20Mykolaiv.pdf; https://drive.google.com/drive/folders/1P-0_0PAwLJ_zON1X_PzRQtSAljjXsX28?usp=drive_link (all files are here)
+  - <b> План сталої міської мобільності міста Миколаїв </b> (Sustainable urban mobility plan for the city of Mykolaiv) (“А+С Україна”, 2019): https://mkrada.gov.ua/files/2019/8_2019/SUMP%20Mykolaiv.pdf; https://drive.google.com/drive/folders/1P-0_0PAwLJ_zON1X_PzRQtSAljjXsX28?usp=drive_link (all files are here)
 
 - Lviv:
   - <b> Sustainable Urban Mobility Plan for Lviv </b> https://www.mobiliseyourcity.net/sites/default/files/2020-10/Sustainable%20Urban%20Mobility%20Plan%20of%20Lviv_digital-compressed.pdf
   - <b> Sustainable urban mobility plan </b> (GIZ, Basler & Hofmann AG, Van de Wetering Atelier für Städtebau GmbH, Burkhard Horn: Mobilität & Verkehr - Strategie & Planung, 2019) https://www8.city-adm.lviv.ua/Pool/Info/doclmr_1.NSF/(SearchForWeb)/944FD4B2757ED859C225875F002B36C2?OpenDocument
   -  <b> Lviv Green City Action Plan  </b> , EBRD, 2020: https://ebrdgreencities.com/assets/Uploads/PDF/Lviv-GCAP-Final-ENG-merged_May2020.pdf (Ukrainian: https://ebrdgreencities.com/assets/Uploads/PDF/Lviv-GCAP-Final-UKR-merged_May-2020.pdf)
-  - <b> Стратегія міського транспортного руху у м. Львові </b> (PTV Planung Transport Verkehr AG, VCDB VerkehrsConsult, 2009)  https://drive.google.com/drive/folders/1MAqkzTU-vGlQ9aJEhR4ETdrxby59edqk?usp=drive_link 
+  - <b> Стратегія міського транспортного руху у м. Львові </b>  (Urban transport strategy for City of Lviv) (PTV Planung Transport Verkehr AG, VCDB VerkehrsConsult, 2009)  https://drive.google.com/drive/folders/1MAqkzTU-vGlQ9aJEhR4ETdrxby59edqk?usp=drive_link 
   - <b> Lviv Public Transport – Urban Transport Regulatory Improvement </b> (Louis Berger, EBRD, CIDA, 2011); 
   - <b> Integrated concept of Lviv downtown development </b> (GIZ, 2011): https://www.slideshare.net/lingvo/integrated-concept-of-lviv-downtown-development , http://www.urban-project.lviv.ua/php_uploads/data/articles/ArticleFiles_UA_182.pdf 
 
@@ -98,7 +98,7 @@ https://documents1.worldbank.org/curated/en/498021530861926262/pdf/Sustainable-M
   - <b> Фінансове Планування Для ПСММ м. Суми </b> (Egis, 2020): https://drive.google.com/file/d/1__-CEzw9utZAzCVwbjjjaOshIDNevmdJ/view?usp=drive_link 
  
 - Vinnytsia
-  - <b> Комплексна Стратегія Міського Транспорту І Просторового Розвитку </b>  (mrs partner ag, Van de Wetering Atelier für Städtebau GmbH, Ernst Basler + Partner AG, 2015)
+  - <b> Комплексна Стратегія Міського Транспорту І Просторового Розвитку </b> (Integrated Urban Transport and Spatial Development Strategy) (mrs partner ag, Van de Wetering Atelier für Städtebau GmbH, Ernst Basler + Partner AG, 2015)
 https://2021.vmr.gov.ua/ContentLibrary/C%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D1%96%D1%8F%20%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%D1%83.pdf  
   - <b>  Концепція інтегрованого розвитку міста Вінниці 2030 </b>  (2019): https://2021.vmr.gov.ua/Lists/IntegratedUrbanDevelopment/Default.aspx 
 
