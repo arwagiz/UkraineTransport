@@ -23,7 +23,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### National Vision, Strategy, Masterplan <a name="national-vision-strategy-masterplan"></a> 
 
 - <b> National Transport Strategy of Ukraine for the period up to 2030 </b> (Cabinet of Ministers of Ukraine, 2018): https://zakon.rada.gov.ua/laws/show/430-2018-%D1%80#Text (English version: https://mtu.gov.ua/files/for_investors/230118/National%20Transport%20Strategy%20of%20Ukraine.pdf)
-- <b> Оновлена Транспортна Стратегія України: Напрямки Політики </b> (Updated Transport Strategy of Ukraine Policy Directions), Ministry of Infrastructure Ukraine: https://mtu.gov.ua/files/strategy_ukr.pdf
+- <b> Оновлена Транспортна Стратегія України: Напрямки Політики </b> *(Updated Transport Strategy of Ukraine Policy Directions)*, Ministry of Infrastructure Ukraine: https://mtu.gov.ua/files/strategy_ukr.pdf
 - Національна доповідь <b> «Цілі Сталого Розвитку: Україна» </b> (Міністерство економічного розвитку і торгівлі України, 2017) // National report "Sustainable Development Goals: Ukraine" (Ministry of Economic Development and Trade of Ukraine, 2017): https://me.gov.ua/Documents/Download?id=22e86f94-a9dd-421e-adcb-e38748a4b7cb
 - <b> Ukraine’s Reforms Matrix: Reforms And Conditionalities 2024 </b>, Cabinet of Ministers: https://www.kmu.gov.ua/storage/app/sites/1/reform_images/presentation-on-ukraines-reforms-matrix.pdf
 
@@ -42,7 +42,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 
 - Updated <b> Nationally Determined Contribution of Ukraine </b> to the Paris Agreement: https://unfccc.int/sites/default/files/NDC/2022-06/Ukraine%20NDC_July%2031.pdf
-- Національно-визначений внесок України // <b> Ukraine's nationally determined contribution </b>: https://mepr.gov.ua/diyalnist/napryamky/zmina-klimatu/pom-yakshennya-zminy-klimatu/natsionalno-vyznachenyj-vnesok-ukrayiny/ 
+- Національно-визначений внесок України // <b> *(Ukraine's nationally determined contribution)* </b>: https://mepr.gov.ua/diyalnist/napryamky/zmina-klimatu/pom-yakshennya-zminy-klimatu/natsionalno-vyznachenyj-vnesok-ukrayiny/ 
 - <b> Ukraine 2050 Low Emission Development Strategy </b>, 2017: https://unfccc.int/sites/default/files/resource/Ukraine_LEDS_en.pdf
 
 ### EU accession <a name="eu-accession"></a> 
@@ -64,45 +64,45 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### Local Transport Plans <a name="local-transport-plans"></a>  
 
 - Chernihiv
-  - <b> Розробка Та Реалізація Моделі Оптимізації Міських Пасажирських Перевезень </b> (Development and Implementation of an Urban Passenger Transport Optimisation Model) (НУ Чернігівська політехніка, 2021): https://drive.google.com/file/d/1jLiyrwzUSg67SsYZhnhWYLavJGQWRXjQ/view?usp=drive_link
+  - <b> Розробка Та Реалізація Моделі Оптимізації Міських Пасажирських Перевезень </b> *(Development and Implementation of an Urban Passenger Transport Optimisation Model)* (НУ Чернігівська політехніка, 2021): https://drive.google.com/file/d/1jLiyrwzUSg67SsYZhnhWYLavJGQWRXjQ/view?usp=drive_link
  
 - Ivano-Frankivsk
-  - <b> Транспортна концепція міста Івано-Франківська </b> (Transport concept for the city of Ivano-Frankivsk) (​​DREBERIS GmbH, PTV Transport Consult GmbH Dresden, GIZ, 2015): https://drive.google.com/file/d/1ekcW5qkgeaFtAWegfa9mIVOYaURT_5d3/view?usp=drive_link 
+  - <b> Транспортна концепція міста Івано-Франківська </b> *(Transport concept for the city of Ivano-Frankivsk)* (​​DREBERIS GmbH, PTV Transport Consult GmbH Dresden, GIZ, 2015): https://drive.google.com/file/d/1ekcW5qkgeaFtAWegfa9mIVOYaURT_5d3/view?usp=drive_link 
 
 - Khmelnytskyi:
   - <b> Green City Action Plan </b>: https://ebrdgreencities.com/assets/Uploads/PDF/KhmelnytskyiGCAP_Eng_FINAL.pdf?vid=3 (Ukrainian: https://ebrdgreencities.com/assets/Uploads/PDF/Khlnytskyi-GCAP_Ukr_FINAL_Apr-2023.pdf?vid=3)
     
 - Kyiv
-  - <b> Дослідження сталого розвитку міського транспорту </b> (Research on the sustainable development of urban transport) (Integrated Transport Planning Ltd, 2015): https://kmr.gov.ua/sites/default/files/3795-doslidzhennya_stalogo_rozvytku_miskogo_transportu_svitovyy_bank_0.pdf 
-  - <b> Стратегія Розвитку Міста Києва До 2025 Року </b>, с.57 (Kyiv City Development Strategy 2025): https://dei.kyivcity.gov.ua/files/2017/7/28/Strategy2025new.pdf
+  - <b> Дослідження сталого розвитку міського транспорту </b> *(Research on the sustainable development of urban transport)* (Integrated Transport Planning Ltd, 2015): https://kmr.gov.ua/sites/default/files/3795-doslidzhennya_stalogo_rozvytku_miskogo_transportu_svitovyy_bank_0.pdf 
+  - <b> Стратегія Розвитку Міста Києва До 2025 Року </b>, с.57 *(Kyiv City Development Strategy 2025*): https://dei.kyivcity.gov.ua/files/2017/7/28/Strategy2025new.pdf
   - <b> Kyiv Urban Mobility Project </b> https://documents.worldbank.org/en/publication/documents-reports/documentdetail/638411619182035205/project-information-document-kyiv-urban-mobility-project-p170290
   - <b> Green City Action Plan </b>: https://drive.google.com/file/d/1X8Sx0wIdpD0OiZZr_uVf4q2s1jVbXjmt/view // https://kyivcity.gov.ua/navkolyshnie_seredovyshche_mista/Green_City/dokumenti_ta_prezentatsi/
  
 - Mykolaiv
-  - <b> План сталої міської мобільності міста Миколаїв </b> (Sustainable urban mobility plan for the city of Mykolaiv) (“А+С Україна”, 2019): https://mkrada.gov.ua/files/2019/8_2019/SUMP%20Mykolaiv.pdf; https://drive.google.com/drive/folders/1P-0_0PAwLJ_zON1X_PzRQtSAljjXsX28?usp=drive_link (all files are here)
+  - <b> План сталої міської мобільності міста Миколаїв </b> *(Sustainable urban mobility plan for the city of Mykolaiv)* (“А+С Україна”, 2019): https://mkrada.gov.ua/files/2019/8_2019/SUMP%20Mykolaiv.pdf; https://drive.google.com/drive/folders/1P-0_0PAwLJ_zON1X_PzRQtSAljjXsX28?usp=drive_link (all files are here)
 
 - Lviv:
   - <b> Sustainable Urban Mobility Plan for Lviv </b> https://www.mobiliseyourcity.net/sites/default/files/2020-10/Sustainable%20Urban%20Mobility%20Plan%20of%20Lviv_digital-compressed.pdf
   - <b> Sustainable Urban Mobility Plan </b> (GIZ, Basler & Hofmann AG, Van de Wetering Atelier für Städtebau GmbH, Burkhard Horn: Mobilität & Verkehr - Strategie & Planung, 2019) https://www8.city-adm.lviv.ua/Pool/Info/doclmr_1.NSF/(SearchForWeb)/944FD4B2757ED859C225875F002B36C2?OpenDocument
   -  <b> Lviv Green City Action Plan  </b> , EBRD, 2020: https://ebrdgreencities.com/assets/Uploads/PDF/Lviv-GCAP-Final-ENG-merged_May2020.pdf (Ukrainian: https://ebrdgreencities.com/assets/Uploads/PDF/Lviv-GCAP-Final-UKR-merged_May-2020.pdf)
-  - <b> Стратегія міського транспортного руху у м. Львові </b>  (Urban transport strategy for City of Lviv) (PTV Planung Transport Verkehr AG, VCDB VerkehrsConsult, 2009)  https://drive.google.com/drive/folders/1MAqkzTU-vGlQ9aJEhR4ETdrxby59edqk?usp=drive_link 
+  - <b> Стратегія міського транспортного руху у м. Львові </b>  *(Urban transport strategy for City of Lviv)* (PTV Planung Transport Verkehr AG, VCDB VerkehrsConsult, 2009)  https://drive.google.com/drive/folders/1MAqkzTU-vGlQ9aJEhR4ETdrxby59edqk?usp=drive_link 
   - <b> Lviv Public Transport – Urban Transport Regulatory Improvement </b> (Louis Berger, EBRD, CIDA, 2011); 
   - <b> Integrated concept of Lviv downtown development </b> (GIZ, 2011): https://www.slideshare.net/lingvo/integrated-concept-of-lviv-downtown-development , http://www.urban-project.lviv.ua/php_uploads/data/articles/ArticleFiles_UA_182.pdf 
 
 - Odesa:
-  - <b> Sustainable Mobility for Odessa. A road map for improving accessibility and energy efficiency </b> (World Bank. 2018. Sustainable Mobility for Odessa. © World Bank.)  
+  - <b> Sustainable Mobility for Odessa. A road map for improving accessibility and energy efficiency </b> (World Bank. 2018. Sustainable Mobility for Odessa)  
 https://documents1.worldbank.org/curated/en/498021530861926262/pdf/Sustainable-Mobility-for-Odessa.pdf 
 
 - Poltava: 
   - <b> Sustainable Urban Mobility Plan for Poltava </b>, 2019: https://www.mobiliseyourcity.net/sites/default/files/2022-08/SUMP_Poltava_ENG.pdf
  
 - Sumy
-  - <b> Фінансове Планування Для ПСММ м. Суми </b> (Financial Planning for the SUMP in Sumy) (Egis, 2020): https://drive.google.com/file/d/1__-CEzw9utZAzCVwbjjjaOshIDNevmdJ/view?usp=drive_link 
+  - <b> Фінансове Планування Для ПСММ м. Суми </b> *(Financial Planning for the SUMP in Sumy)* (Egis, 2020): https://drive.google.com/file/d/1__-CEzw9utZAzCVwbjjjaOshIDNevmdJ/view?usp=drive_link 
  
 - Vinnytsia
-  - <b> Комплексна Стратегія Міського Транспорту І Просторового Розвитку </b> (Integrated Urban Transport and Spatial Development Strategy) (mrs partner ag, Van de Wetering Atelier für Städtebau GmbH, Ernst Basler + Partner AG, 2015)
+  - <b> Комплексна Стратегія Міського Транспорту І Просторового Розвитку </b> *(Integrated Urban Transport and Spatial Development Strategy)* (mrs partner ag, Van de Wetering Atelier für Städtebau GmbH, Ernst Basler + Partner AG, 2015)
 https://2021.vmr.gov.ua/ContentLibrary/C%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D1%96%D1%8F%20%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%D1%83.pdf  
-  - <b>  Концепція інтегрованого розвитку міста Вінниці 2030 </b> (Vinnytsia Integrated Development Concept 2030) (2019): https://2021.vmr.gov.ua/Lists/IntegratedUrbanDevelopment/Default.aspx 
+  - <b>  Концепція інтегрованого розвитку міста Вінниці 2030 </b> *(Vinnytsia Integrated Development Concept 2030)* (2019): https://2021.vmr.gov.ua/Lists/IntegratedUrbanDevelopment/Default.aspx 
 
 - Zhytomyr:  
   - <b> Sustainable Urban Mobility Plan for Zhytomyr </b> , 2019: https://www.mobiliseyourcity.net/sites/default/files/2022-08/SUMP%20Zhytomyr.pdf
