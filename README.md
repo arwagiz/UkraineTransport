@@ -81,7 +81,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 - Lviv:
   - <b> Sustainable Urban Mobility Plan for Lviv </b> https://www.mobiliseyourcity.net/sites/default/files/2020-10/Sustainable%20Urban%20Mobility%20Plan%20of%20Lviv_digital-compressed.pdf
-  - <b> Sustainable urban mobility plan </b> (GIZ, Basler & Hofmann AG, Van de Wetering Atelier für Städtebau GmbH, Burkhard Horn: Mobilität & Verkehr - Strategie & Planung, 2019) https://www8.city-adm.lviv.ua/Pool/Info/doclmr_1.NSF/(SearchForWeb)/944FD4B2757ED859C225875F002B36C2?OpenDocument
+  - <b> Sustainable Urban Mobility Plan </b> (GIZ, Basler & Hofmann AG, Van de Wetering Atelier für Städtebau GmbH, Burkhard Horn: Mobilität & Verkehr - Strategie & Planung, 2019) https://www8.city-adm.lviv.ua/Pool/Info/doclmr_1.NSF/(SearchForWeb)/944FD4B2757ED859C225875F002B36C2?OpenDocument
   -  <b> Lviv Green City Action Plan  </b> , EBRD, 2020: https://ebrdgreencities.com/assets/Uploads/PDF/Lviv-GCAP-Final-ENG-merged_May2020.pdf (Ukrainian: https://ebrdgreencities.com/assets/Uploads/PDF/Lviv-GCAP-Final-UKR-merged_May-2020.pdf)
   - <b> Стратегія міського транспортного руху у м. Львові </b>  (Urban transport strategy for City of Lviv) (PTV Planung Transport Verkehr AG, VCDB VerkehrsConsult, 2009)  https://drive.google.com/drive/folders/1MAqkzTU-vGlQ9aJEhR4ETdrxby59edqk?usp=drive_link 
   - <b> Lviv Public Transport – Urban Transport Regulatory Improvement </b> (Louis Berger, EBRD, CIDA, 2011); 
@@ -95,12 +95,12 @@ https://documents1.worldbank.org/curated/en/498021530861926262/pdf/Sustainable-M
   - <b> Sustainable Urban Mobility Plan for Poltava </b>, 2019: https://www.mobiliseyourcity.net/sites/default/files/2022-08/SUMP_Poltava_ENG.pdf
  
 - Sumy
-  - <b> Фінансове Планування Для ПСММ м. Суми </b> (Egis, 2020): https://drive.google.com/file/d/1__-CEzw9utZAzCVwbjjjaOshIDNevmdJ/view?usp=drive_link 
+  - <b> Фінансове Планування Для ПСММ м. Суми </b> (Financial Planning for the SUMP in Sumy) (Egis, 2020): https://drive.google.com/file/d/1__-CEzw9utZAzCVwbjjjaOshIDNevmdJ/view?usp=drive_link 
  
 - Vinnytsia
   - <b> Комплексна Стратегія Міського Транспорту І Просторового Розвитку </b> (Integrated Urban Transport and Spatial Development Strategy) (mrs partner ag, Van de Wetering Atelier für Städtebau GmbH, Ernst Basler + Partner AG, 2015)
 https://2021.vmr.gov.ua/ContentLibrary/C%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D1%96%D1%8F%20%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%D1%83.pdf  
-  - <b>  Концепція інтегрованого розвитку міста Вінниці 2030 </b>  (2019): https://2021.vmr.gov.ua/Lists/IntegratedUrbanDevelopment/Default.aspx 
+  - <b>  Концепція інтегрованого розвитку міста Вінниці 2030 </b> (Vinnytsia Integrated Development Concept 2030) (2019): https://2021.vmr.gov.ua/Lists/IntegratedUrbanDevelopment/Default.aspx 
 
 - Zhytomyr:  
   - <b> Sustainable Urban Mobility Plan for Zhytomyr </b> , 2019: https://www.mobiliseyourcity.net/sites/default/files/2022-08/SUMP%20Zhytomyr.pdf
