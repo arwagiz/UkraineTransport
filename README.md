@@ -33,9 +33,10 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
     - <b>Integration of the Ukrainian and Moldavian Railway System into the EU transport system </b>, EIB, DG MOVE: https://transport.ec.europa.eu/system/files/2023-07/Integration_of_the_UAMD_railway_system_into_the_EU_transport_system.pdf
  
 - Recovery plans
+    -  <b> Third Rapid Damage and Needs Assessment (RDNA3) </b> February 2022 – December 2023: World Bank, 2024: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099021324115085807/p1801741bea12c012189ca16d95d8c2556a
     -  <b> Ukraine Recovery Plan 2022 </b>: https://www.urc-international.com/urc2022-recovery-plan
     -  <b> Ukraine Rapid Damage and Needs Assessment (RDNA2) </b>: February 2022 - February 2023: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099184503212328877/p1801740d1177f03c0ab180057556615497
-    -  </b> Third Rapid Damage and Needs Assessment (RDNA3) </b> February 2022 – December 2023: World Bank, 2024: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099021324115085807/p1801741bea12c012189ca16d95d8c2556a
+
 
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 
@@ -115,7 +116,7 @@ https://2021.vmr.gov.ua/ContentLibrary/C%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D1%
  
  - General:
 
-   - <b> Аналітичний огляд "Зобов'язання з надання транспортних послуг (модель PSO) як частина євроінтеграції України” </b> (NGO Vision Zero, 2024) https://enefcities.org.ua/upload/files/Publications/Urban%20Mobility/PSO.pdf 
+   - <b> Аналітичний огляд "Зобов'язання з надання транспортних послуг (модель PSO) як частина євроінтеграції України” </b> (Analytical review "Public Service Obligations (PSO model) as part of Ukraine's European integration") (NGO Vision Zero, 2024) https://enefcities.org.ua/upload/files/Publications/Urban%20Mobility/PSO.pdf 
    - <b> Дослідження трамвайних систем у містах України у 2023 році / Study of tram systems in Ukrainian cities in 2023  </b> (NGO Vision Zero, 2024)
   UA: https://enefcities.org.ua/upload/files/Publications/Urban%20Mobility/Trams.pdf //EN:  https://enefcities.org.ua/upload/files/Publications/Urban%20Mobility/ENGtrams.pdf 
    - <b> The Urban Transport Sector in Ukraine in 2022: A baseline report in the context of the War of 2022 and prospects for a green post-war recovery </b> https://www.slideshare.net/viktoza/the-urban-transport-sector-in-ukraine-in-2022-a-baseline-report-in-the-context-of-the-war-of-2022-and-prospects-for-a-green-postwar-recovery
@@ -164,7 +165,7 @@ https://2021.vmr.gov.ua/ContentLibrary/C%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D1%
 
 
 
-Disclaimer: Findings, interpretations and conclusions expressed in this chart are based on information gathered by GIZ and its consultants, partners and contributors. GIZ does not, however, guarantee the accuracy of completeness of information in this document, and cannot be held responsible for any errors, omissions or losses which emerge from its use. The placement and listing of companies, academia or other stakeholders (or their logos, contact details or other information) in this chart doesn’t mean any endorsement by GIZ or other partners. Users are encouraged to exercise due-diligence in respect to information, offers and proposals.
+Disclaimer: Findings, interpretations and conclusions expressed in this repository are based on information gathered by GIZ and its consultants, partners and contributors. GIZ does not, however, guarantee the accuracy of completeness of information in this document, and cannot be held responsible for any errors, omissions or losses which emerge from its use. The placement and listing of companies, academia or other stakeholders (or their logos, contact details or other information) in this chart doesn’t mean any endorsement by GIZ or other partners. Users are encouraged to exercise due-diligence in respect to information, offers and proposals.
 
 
 Contributors:
